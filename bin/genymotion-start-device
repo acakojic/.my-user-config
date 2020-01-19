@@ -1,0 +1,45 @@
+#!/bin/sh
+
+cd /opt/genymobile/genymotion
+
+./player --vm-name 4.1-16v-480x800-240hdpi &
+
+sleep 60.0 &&
+
+	./player --vm-name 4.2v-480x800-240hdpi &
+
+sleep 60.0 &&
+
+	./player --vm-name 4.3v-480x800-240hdpi &
+
+sleep 60.0 &&
+
+	./player --vm-name 5.0v-480x800-240hdpi &
+
+sleep 60.0 &&
+
+	./player --vm-name 5.1v-480x800-240hdpi &
+
+sleep 60.0 &&
+
+	./player --vm-name 6.0v-480x800-240hdpi &
+
+sleep 60.0 &&
+
+	./player --vm-name 7.0v-480x800-240hdpi &
+
+sleep 60.0 &&
+
+	./player --vm-name 7.1v-480x800-240hdpi &
+
+sleep 60.0 &&
+
+	./player --vm-name 8.0v-480x800-240hdpi &
+
+sleep 60.0 &&
+
+	./player --vm-name 9.0v-480x800-240hdpi &
+
+sleep 5.0 &&
+
+exit

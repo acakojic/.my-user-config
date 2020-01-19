@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec /opt/android-studio/bin/studio.sh

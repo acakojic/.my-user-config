@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+if [ "$(xdotool getwindowfocus)" -eq "$WINDOWID" ]; then
+# this command sends the key control+c
+ xvkbd -no-jump-pointer -xsendevent -text '\SS'
+fi

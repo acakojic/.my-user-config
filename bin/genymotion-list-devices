@@ -1,0 +1,7 @@
+#!/bin/sh
+
+cd /opt/genymobile/genymotion
+
+./genyshell -c "devices list" &
+
+exit

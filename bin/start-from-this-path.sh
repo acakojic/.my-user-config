@@ -1,0 +1,1 @@
+(cd ; emacs -nw .emacs)

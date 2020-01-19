@@ -1,0 +1,26 @@
+#dialog --checklist "Choose your destini: " 15 40 5 \
+#	   1 "Debian" on \
+#	   2 "OpenBsd" off \
+#	   3 "Arch" off \
+
+#installation = 'Installation';
+#check_system = 'Check system';
+#exit_dialog = 'Exit dialog';
+
+call_function() {
+exec 3>&1
+return_gui=$(dialog --title "Choose action from menu" \
+       --menu "\n        Use arrows - UP/DOWN \n\                              
+       Press [Enter] to select\n" 20 40 10 \
+       "I"       "Installation" \
+       "S"       "Check system" \
+       "X"       "Exit dialog" 2>&1 1>&3);
+}
+
+if [ $? -eq 0 ]
+then 
+	echo "ok pressed"
+	call_function
+else
+   echo "cancel pressed"
+fi

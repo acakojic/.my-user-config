@@ -1,0 +1,16 @@
+#!/bin/sh
+
+sleep 0.6 &&
+	xdotool windowactivate --sync 39845904 key ctrl+t &&
+	sleep 2.0 &&
+	xdotool windowactivate --sync 39845904 type 'gnu/linux is awesome' &&
+	sleep 2.0 &&
+	xdotool windowactivate --sync 39845904 key Return &&
+	sleep 2.0 &&
+	xdotool windowactivate --sync 39845904 key Down &&
+	sleep 2.0 &&
+	xdotool windowactivate --sync 39845904 key Return &&
+	sleep 5.0 &&
+	xdotool windowactivate --sync 39845904 key ctrl+w &&
+	sleep 2.0 &&
+	xdotool windowactivate --sync 39845904 key ctrl+t

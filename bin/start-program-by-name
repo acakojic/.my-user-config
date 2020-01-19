@@ -1,0 +1,22 @@
+#!/bin/sh
+
+result=$(xdotool search "Mozilla Firefox" getactivewindow getwindowid)
+
+echo $result;
+
+sleep 0.9 &&
+	#windowid xdotool search "Mozilla Firefox" windowactivate --sync key --clearmodifiers ctrl+l &&
+	#sleep 2.0 &&
+	xdotool windowactivate --sync $result type 'Nikola Tesla' &&
+	sleep 2.0 &&
+	xdotool windowactivate --sync $result key Return
+	#sleep 2.0 &&
+	#xdotool windowactivate --sync 39845904 key Down &&
+	#sleep 2.0 &&
+	#xdotool windowactivate --sync 39845904 key Return &&
+	#sleep 5.0 &&
+	#xdotool windowactivate --sync 39845904 key ctrl+w &&
+	#sleep 2.0 &&
+	#xdotool windowactivate --sync 39845904 key ctrl+t
+
+	#xdotool search --sync --onlyvisible --class "firefox" windowactivate --sync key --clearmodifiers ctrl+l #ovo ne radi
