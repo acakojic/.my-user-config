@@ -1,0 +1,27 @@
+#==================================================
+# 1) pravljenje korisnika:
+#==================================================
+
+#pravljenje korisnika bez home direktorijuma:
+sudo useradd test_user
+
+#pravljenje korisnika sa home direktorijuma:
+sudo useradd -m test_user
+
+#dodaljivanje sifre korisniku:
+sudo passwd test_user
+
+#pravjenje korisnika sa home direktorijumom i dodelom sifre
+sudo useradd -m test_user -p PASSWORD
+
+
+
+
+
+
+
+
+#--------------------------------------------------
+# 2) pravljenje grupe:
+#--------------------------------------------------
+

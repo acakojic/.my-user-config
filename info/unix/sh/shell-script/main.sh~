@@ -1,0 +1,10 @@
+#!/bin/sh
+#
+# Print something to be displayed with command "ls"
+
+echo "Print something to be displayed with command ls"
+
+man grep
+
+grep -i linux *
+

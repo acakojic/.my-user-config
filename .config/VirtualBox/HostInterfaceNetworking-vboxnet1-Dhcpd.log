@@ -1,0 +1,31 @@
+00:00:00.002429 VirtualBox DHCP Server 6.0.14 r133895 linux.amd64 (Oct 14 2019 14:59:42) release log
+00:00:00.002431 Log opened 2020-01-07T23:16:57.521067000Z
+00:00:00.002432 Build Type: release
+00:00:00.002436 OS Product: Linux
+00:00:00.002437 OS Release: 4.19.0-6-amd64
+00:00:00.002438 OS Version: #1 SMP Debian 4.19.67-2+deb10u1 (2019-09-20)
+00:00:00.002468 DMI Product Name: MS-7680
+00:00:00.002476 DMI Product Version: 3.0
+00:00:00.002525 Host RAM: 7961MB (7.7GB) total, 6447MB (6.2GB) available
+00:00:00.002528 Executable: /usr/lib/virtualbox/VBoxNetDHCP
+00:00:00.002529 Process ID: 8745
+00:00:00.002529 Package type: LINUX_64BITS__DEBIAN_10
+00:00:00.002566 MAC address is not specified: will use generated MAC 08:00:27:ff:d4:6b
+00:00:00.002573 IP address 192.168.57.100/24
+00:00:00.002577 address pool 192.168.57.101 - 192.168.57.254
+00:00:00.002586 loading leases from /home/koja/.config/VirtualBox/HostInterfaceNetworking-vboxnet1-Dhcpd.leases
+00:00:00.002683 Runtime error opening '/home/koja/.config/VirtualBox/HostInterfaceNetworking-vboxnet1-Dhcpd.leases' for reading: -102 (File not found.)
+00:00:15.972401 DISCOVER xid 0x000027cf chaddr 08:00:27:a0:d3:42
+00:00:15.972442  ciaddr 0.0.0.0
+00:00:15.972452  params { 1 3 6 28 }
+00:00:15.972468 > allocateAddress to client 08:00:27:a0:d3:42
+00:00:15.972477 > .... creating new binding
+00:00:15.972480 > .... allocated 192.168.57.101 free
+00:00:15.974105 REQUEST for server 192.168.57.100 xid 0x000027d0 chaddr 08:00:27:a0:d3:42
+00:00:15.974148  ciaddr 0.0.0.0
+00:00:15.974154  requested address 192.168.57.101
+00:00:15.974162  params { 1 3 6 28 }
+00:00:15.974176  other options: 54
+00:00:15.974184 > allocateAddress 192.168.57.101 to client 08:00:27:a0:d3:42
+00:00:15.974191 > ... found existing binding 192.168.57.101 to 08:00:27:a0:d3:42, offered, valid from 2020-01-07T23:17:13Z for 1200s until 2020-01-07T23:37:13Z
+00:00:15.974214 writing leases to /home/koja/.config/VirtualBox/HostInterfaceNetworking-vboxnet1-Dhcpd.leases

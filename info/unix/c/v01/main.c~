@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main ()
+{
+
+  printf("Today will be a good day, productive day! \n");
+
+  return 0;
+}

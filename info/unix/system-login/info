@@ -1,0 +1,5 @@
+#suspend :
+systemctl suspend
+
+#logout
+pkill -kill -u koja

@@ -1,0 +1,21 @@
+00:00:00.866140 VirtualBox GUI VM Selector Window 6.0.16 r135674 linux.amd64 (Jan 14 2020 10:17:21) release log
+00:00:00.866143 Log opened 2020-01-15T22:01:25.380644000Z
+00:00:00.866144 Build Type: release
+00:00:00.866150 OS Product: Linux
+00:00:00.866151 OS Release: 4.19.0-6-amd64
+00:00:00.866152 OS Version: #1 SMP Debian 4.19.67-2+deb10u1 (2019-09-20)
+00:00:00.866185 DMI Product Name: MS-7680
+00:00:00.866194 DMI Product Version: 3.0
+00:00:00.866252 Host RAM: 7961MB (7.7GB) total, 6079MB (5.9GB) available
+00:00:00.866257 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.866258 Process ID: 29418
+00:00:00.866258 Package type: LINUX_64BITS_DEBIAN_10_0
+00:00:00.866298 Qt version: 5.11.3
+00:00:01.041719 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.537772 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1920x1080
+00:00:01.667843 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:03.646270 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:16.648579 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:16.906909 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:42.021899 GUI: UIMediumEnumerator: Medium with key={{dc6c830e-6799-43b9-beab-a77934605b67}} created
+00:01:42.449403 GUI: UIMediumEnumerator: Medium-enumeration finished!

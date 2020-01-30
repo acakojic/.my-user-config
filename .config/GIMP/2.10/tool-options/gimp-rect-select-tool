@@ -1,0 +1,6 @@
+# GIMP gimp-rect-select-tool options
+
+(guide center-lines)
+(operation subtract)
+
+# end of gimp-rect-select-tool options

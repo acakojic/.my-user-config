@@ -1,0 +1,18 @@
+00:00:00.002598 VirtualBox DHCP Server 6.0.14 r133895 linux.amd64 (Oct 14 2019 14:59:42) release log
+00:00:00.002600 Log opened 2020-01-07T23:57:57.834804000Z
+00:00:00.002601 Build Type: release
+00:00:00.002604 OS Product: Linux
+00:00:00.002605 OS Release: 4.19.0-6-amd64
+00:00:00.002606 OS Version: #1 SMP Debian 4.19.67-2+deb10u1 (2019-09-20)
+00:00:00.002631 DMI Product Name: MS-7680
+00:00:00.002640 DMI Product Version: 3.0
+00:00:00.002684 Host RAM: 7961MB (7.7GB) total, 7048MB (6.8GB) available
+00:00:00.002687 Executable: /usr/lib/virtualbox/VBoxNetDHCP
+00:00:00.002688 Process ID: 3850
+00:00:00.002688 Package type: LINUX_64BITS__DEBIAN_10
+00:00:00.002715 MAC address is not specified: will use generated MAC 08:00:27:d9:fd:a0
+00:00:00.002721 IP address 192.168.58.100/24
+00:00:00.002725 address pool 192.168.58.101 - 192.168.58.254
+00:00:00.002733 loading leases from /home/koja/.config/VirtualBox/HostInterfaceNetworking-vboxnet2-Dhcpd.leases
+00:00:00.002795 > LOAD: EXPIRED lease 192.168.58.102 to 08:00:27:a0:d3:42, acked, valid from 2020-01-07T23:55:34Z for 1200s until 2020-01-08T00:15:34Z
+00:00:00.002810 > LOAD: EXPIRED lease 192.168.58.101 to 08:00:27:74:0f:af, acked, valid from 2020-01-07T23:54:22Z for 1200s until 2020-01-08T00:14:23Z

@@ -1,0 +1,8 @@
+#spisak komandi:
+ctrl+b, ?
+
+#kopiranje tekst-a:
+1) ctrl+b, [ #ovo je copy-mode
+2) ctrl+space #start/end kopiranje oznacenog teksta
+3) ctrl+w #kopiranje teksta
+4) ctrl+b, ] #lepljenje(paste) tekst-a

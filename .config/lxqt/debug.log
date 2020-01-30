@@ -1,0 +1,970 @@
+2019-09-28 00:07:49.814 (0x7fff1366c840) Debug: New PolkitAgentListener  0x561f14302880
+2019-09-28 00:07:49.835 (0x7fff1366c840) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff1366c850) for  0x561f14302880
+2019-09-28 00:07:54.966 (0x7ffed1e4aad0) Debug: systemd: "CanHibernate" = "yes"
+2019-09-28 00:07:55.917 (0x7ffed1e4aad0) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 00:07:56.141 (0x7ffcdafe0910) Debug: systemd: "CanReboot" = "yes"
+2019-09-28 00:07:56.346 (0x7ffcdafe0910) Debug: systemd: "CanPowerOff" = "yes"
+2019-09-28 00:07:58.045 (0x7fffc1ce4bf0) Debug: ()
+2019-09-28 00:07:59.944 (0x7fffc1ce4bf0) Debug: WinIdChange 1000008 handle QWidgetWindow(0x5578d74de940, name="LXQtPanel panel1Window") QScreen(0x5578d7289da0, name="HDMI-1")
+2019-09-28 00:08:00.386 (0x7fffc1ce4bf0) Debug: Systray started
+2019-09-28 00:08:07.279 (0x7ffe44018bf0) Warning: Empty filename passed to function
+2019-09-28 00:08:07.377 (0x7ffce3c34f50) Debug: BatteryChanged discharging: true chargeLevel: nan actionTime: QTime(Invalid)
+2019-09-28 00:08:07.385 (0x7ffce3c34f50) Debug: Inhibit got: 26
+2019-09-28 00:08:07.649 (0x7ffce3c34f50) Debug: Starting idlenesswatcher
+2019-09-28 00:11:22.399 (0x7fff85af9a40) Debug: add "us" ""
+2019-09-28 00:11:22.458 (0x7fff85af9a40) Debug: Detected "Logitech USB Optical Mouse" on "/dev/input/event9"
+2019-09-28 00:11:38.132 (0x7fff85af9a40) Debug: add "gb" "colemak"
+2019-09-28 00:12:11.514 (0x7fff85af9a40) Debug: "setxkbmap -model pc105 -layout gb,us -variant colemak, -option grp:win_space_toggle"
+2019-09-28 00:22:14.689 (0x7ffd9b3f6040) Debug: add "gb" "colemak"
+2019-09-28 00:22:14.689 (0x7ffd9b3f6040) Debug: add "us" ""
+2019-09-28 00:22:14.744 (0x7ffd9b3f6040) Debug: Detected "Logitech USB Optical Mouse" on "/dev/input/event9"
+2019-09-28 00:22:32.450 (0x7ffd9b3f6040) Debug: add "us" "colemak"
+2019-09-28 00:22:41.630 (0x7ffd9b3f6040) Debug: "setxkbmap -model pc105 -layout us,us -variant colemak, -option grp:win_space_toggle"
+2019-09-28 00:35:58.435 (0x7fffc1ce4bf0) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2019-09-28 00:36:03.683 (0x7fffc1ce4bf0) Debug: execAction "/usr/share/applications/featherpad.desktop"
+2019-09-28 00:46:06.354 (0x7fffc1ce4bf0) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 00:46:08.453 (0x7ffcdafe0910) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-09-28 00:46:08.454 (0x7ffcdafe0910) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-09-28 00:47:43.960 (0x7fff28fd15e0) Debug: New PolkitAgentListener  0x555d0a45f880
+2019-09-28 00:47:43.998 (0x7fff28fd15e0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff28fd15f0) for  0x555d0a45f880
+2019-09-28 00:47:49.718 (0x7ffee1e0ba60) Debug: systemd: "CanHibernate" = "yes"
+2019-09-28 00:47:50.104 (0x7ffee1e0ba60) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 00:47:50.445 (0x7ffd1e262bc0) Debug: systemd: "CanReboot" = "yes"
+2019-09-28 00:47:50.769 (0x7ffd1e262bc0) Debug: systemd: "CanPowerOff" = "yes"
+2019-09-28 00:47:52.377 (0x7ffd5d45a3a0) Debug: ()
+2019-09-28 00:47:54.001 (0x7ffd5d45a3a0) Debug: WinIdChange 1000008 handle QWidgetWindow(0x55da359457a0, name="LXQtPanel panel1Window") QScreen(0x55da355cfb60, name="HDMI-1")
+2019-09-28 00:47:54.282 (0x7ffd5d45a3a0) Debug: Systray started
+2019-09-28 00:47:58.531 (0x7ffcd56e0760) Debug: Starting idlenesswatcher
+2019-09-28 00:59:14.891 (0x7ffd1e262bc0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 00:59:14.960 (0x7ffd5d45a3a0) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 15:41:00.547 (0x7ffc45baf5e0) Debug: New PolkitAgentListener  0x55956fe68680
+2019-09-28 15:41:00.653 (0x7ffc45baf5e0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc45baf5f0) for  0x55956fe68680
+2019-09-28 15:41:06.743 (0x7ffea512ffc0) Debug: systemd: "CanHibernate" = "yes"
+2019-09-28 15:41:07.286 (0x7ffea512ffc0) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 15:41:07.523 (0x7ffc19eb2080) Debug: systemd: "CanReboot" = "yes"
+2019-09-28 15:41:07.665 (0x7ffc19eb2080) Debug: systemd: "CanPowerOff" = "yes"
+2019-09-28 15:41:09.130 (0x7ffdbe63e290) Debug: ()
+2019-09-28 15:41:11.233 (0x7ffdbe63e290) Debug: WinIdChange 1000008 handle QWidgetWindow(0x55620ea19dc0, name="LXQtPanel panel1Window") QScreen(0x55620e6abde0, name="HDMI-1")
+2019-09-28 15:41:35.468 (0x7ffdbe63e290) Debug: Systray started
+2019-09-28 15:41:39.879 (0x7ffca84e5a50) Debug: Starting idlenesswatcher
+2019-09-28 16:09:11.577 (0x7ffdbe63e290) Debug: execAction "/usr/share/applications/lxqt-leave.desktop"
+2019-09-28 16:09:11.720 (0x7ffc19eb2080) Debug: systemd: "CanPowerOff" = "yes"
+2019-09-28 16:09:11.732 (0x7ffe2902cb00) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 16:09:11.737 (0x7ffc19eb2080) Debug: systemd: "CanReboot" = "yes"
+2019-09-28 16:09:11.748 (0x7ffe2902cb00) Debug: systemd: "CanHibernate" = "yes"
+2019-09-28 16:09:21.715 (0x7ffe2902cb00) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 20:04:28.420 (0x7ffc19eb2080) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 20:04:28.426 (0x7ffeac527a50) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 20:04:28.427 (0x7fff39ccd780) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 20:04:28.427 (0x7ffeac527a50) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 20:04:28.427 (0x7ffeac527a50) Warning: QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+2019-09-28 20:04:28.428 (0x7ffc45baf5e0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 20:04:28.431 (0x7ffdbe63e290) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 20:04:28.433 (0x7ffea512ffc0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 20:45:14.900 (0x7ffebe60dcc0) Debug: New PolkitAgentListener  0x5582ab5c1880
+2019-09-28 20:45:14.927 (0x7ffebe60dcc0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffebe60dcd0) for  0x5582ab5c1880
+2019-09-28 20:45:20.396 (0x7ffe6e2f2890) Debug: systemd: "CanHibernate" = "yes"
+2019-09-28 20:45:20.891 (0x7ffe6e2f2890) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 20:45:21.086 (0x7ffd82353ac0) Debug: systemd: "CanReboot" = "yes"
+2019-09-28 20:45:21.211 (0x7ffd82353ac0) Debug: systemd: "CanPowerOff" = "yes"
+2019-09-28 20:45:22.574 (0x7ffc547810b0) Debug: ()
+2019-09-28 20:45:24.521 (0x7ffc547810b0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55b107359240, name="LXQtPanel panel1Window") QScreen(0x55b106ff7de0, name="HDMI-1")
+2019-09-28 20:45:49.561 (0x7ffc547810b0) Debug: Systray started
+2019-09-28 20:45:54.150 (0x7ffe94139670) Debug: Starting idlenesswatcher
+2019-09-28 21:12:02.485 (0x7fffb3668f80) Debug: add "us" "colemak"
+2019-09-28 21:12:02.485 (0x7fffb3668f80) Debug: add "us" ""
+2019-09-28 21:12:02.545 (0x7fffb3668f80) Debug: Detected "Logitech USB Optical Mouse" on "/dev/input/event2"
+2019-09-28 21:13:14.123 (0x7ffedc164320) Debug: Connecting to KScreen...
+2019-09-28 21:41:53.340 (0x7fff84fa5970) Debug: add "us" "colemak"
+2019-09-28 21:41:53.400 (0x7fff84fa5970) Debug: Detected "Logitech USB Optical Mouse" on "/dev/input/event2"
+2019-09-28 22:01:18.469 (0x7ffc547810b0) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 22:01:20.587 (0x7ffd82353ac0) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-09-28 22:01:20.588 (0x7ffd82353ac0) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-09-28 22:03:18.608 (0x7fff0fec9630) Debug: New PolkitAgentListener  0x5622da8f3c80
+2019-09-28 22:03:18.646 (0x7fff0fec9630) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff0fec9640) for  0x5622da8f3c80
+2019-09-28 22:03:23.485 (0x7ffe47f83fa0) Debug: systemd: "CanHibernate" = "yes"
+2019-09-28 22:03:24.348 (0x7ffe47f83fa0) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 22:03:24.567 (0x7fff35338c10) Debug: systemd: "CanReboot" = "yes"
+2019-09-28 22:03:24.693 (0x7fff35338c10) Debug: systemd: "CanPowerOff" = "yes"
+2019-09-28 22:03:26.156 (0x7fffb4443880) Debug: ()
+2019-09-28 22:03:28.246 (0x7fffb4443880) Debug: WinIdChange e00008 handle QWidgetWindow(0x55d89278b610, name="LXQtPanel panel1Window") QScreen(0x55d892440de0, name="HDMI-1")
+2019-09-28 22:03:53.292 (0x7fffb4443880) Debug: Systray started
+2019-09-28 22:03:57.512 (0x7fffc7516e50) Debug: Starting idlenesswatcher
+2019-09-28 22:33:16.050 (0x7ffde5c2b110) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 22:33:16.052 (0x7ffde5c2b110) Warning: QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+2019-09-28 22:33:16.140 (0x7fffb4443880) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 22:33:18.202 (0x7fff35338c10) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-09-28 22:33:18.203 (0x7fff35338c10) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-09-28 22:34:21.685 (0x7ffcbdb4abe0) Debug: New PolkitAgentListener  0x5649312c3c80
+2019-09-28 22:34:21.755 (0x7ffcbdb4abe0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffcbdb4abf0) for  0x5649312c3c80
+2019-09-28 22:34:26.823 (0x7ffe0ea34970) Debug: systemd: "CanHibernate" = "yes"
+2019-09-28 22:34:27.410 (0x7ffe0ea34970) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 22:34:27.609 (0x7ffe29d4b9b0) Debug: systemd: "CanReboot" = "yes"
+2019-09-28 22:34:27.736 (0x7ffe29d4b9b0) Debug: systemd: "CanPowerOff" = "yes"
+2019-09-28 22:34:29.373 (0x7ffe43c8f5c0) Debug: ()
+2019-09-28 22:34:51.803 (0x7ffe43c8f5c0) Debug: WinIdChange e00008 handle QWidgetWindow(0x55ce6e52be90, name="LXQtPanel panel1Window") QScreen(0x55ce6e1b0de0, name="HDMI-1")
+2019-09-28 22:34:57.438 (0x7ffe43c8f5c0) Debug: Systray started
+2019-09-28 22:35:02.620 (0x7ffcf0d7a5b0) Debug: Starting idlenesswatcher
+2019-09-28 22:55:50.609 (0x7ffe29d4b9b0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 22:55:50.618 (0x7ffd0c3c5d30) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 22:55:50.620 (0x7ffe43c8f5c0) Debug: Service "org.freedesktop.StatusNotifierItem-916-1" unregistered
+2019-09-28 22:55:50.622 (0x7ffe5d88aed0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 22:55:50.627 (0x7ffe43c8f5c0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 22:55:50.629 (0x7ffcbdb4abe0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 22:55:50.632 (0x7ffe0ea34970) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 22:55:50.646 (0x7ffcf0d7a5b0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-09-28 22:58:42.890 (0x7ffdbda711f0) Debug: New PolkitAgentListener  0x564d6cb8cc80
+2019-09-28 22:58:42.968 (0x7ffdbda711f0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffdbda71200) for  0x564d6cb8cc80
+2019-09-28 22:58:48.341 (0x7ffdd6962d00) Debug: systemd: "CanHibernate" = "yes"
+2019-09-28 22:58:49.259 (0x7ffdd6962d00) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 22:58:49.483 (0x7ffe8f41daf0) Debug: systemd: "CanReboot" = "yes"
+2019-09-28 22:58:49.568 (0x7ffe8f41daf0) Debug: systemd: "CanPowerOff" = "yes"
+2019-09-28 22:58:51.024 (0x7fffa3e2d660) Debug: ()
+2019-09-28 22:58:53.158 (0x7fffa3e2d660) Debug: WinIdChange 1600008 handle QWidgetWindow(0x559009378ee0, name="LXQtPanel panel1Window") QScreen(0x559009022de0, name="HDMI-1")
+2019-09-28 22:59:18.307 (0x7fffa3e2d660) Debug: Systray started
+2019-09-28 22:59:22.496 (0x7ffd101aa6d0) Debug: Starting idlenesswatcher
+2019-09-28 23:04:11.987 (0x7fff1197cbe0) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 23:04:11.988 (0x7fff1197cbe0) Warning: QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+2019-09-28 23:04:12.025 (0x7fffa3e2d660) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 23:04:14.108 (0x7ffe8f41daf0) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-09-28 23:04:14.109 (0x7ffe8f41daf0) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-09-28 23:05:16.142 (0x7ffd1a014320) Debug: New PolkitAgentListener  0x56414e940880
+2019-09-28 23:05:16.222 (0x7ffd1a014320) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd1a014330) for  0x56414e940880
+2019-09-28 23:05:21.320 (0x7ffc8c187bd0) Debug: systemd: "CanHibernate" = "yes"
+2019-09-28 23:05:22.210 (0x7ffc8c187bd0) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 23:05:22.476 (0x7ffe72f36720) Debug: systemd: "CanReboot" = "yes"
+2019-09-28 23:05:22.651 (0x7ffe72f36720) Debug: systemd: "CanPowerOff" = "yes"
+2019-09-28 23:05:24.015 (0x7ffc7fb6cf20) Debug: ()
+2019-09-28 23:05:25.986 (0x7ffc7fb6cf20) Debug: WinIdChange 1200008 handle QWidgetWindow(0x558125ffac70, name="LXQtPanel panel1Window") QScreen(0x558125c87de0, name="HDMI-1")
+2019-09-28 23:05:26.304 (0x7ffc7fb6cf20) Debug: Systray started
+2019-09-28 23:05:30.599 (0x7ffe03870740) Debug: Starting idlenesswatcher
+2019-09-28 23:06:02.275 (0x7ffc7fb6cf20) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1049, resource id: 33554438, major code: 18 (ChangeProperty), minor code: 0
+2019-09-28 23:06:33.736 (0x7ffc3703a080) Debug: systemd: "CanSuspend" = "yes"
+2019-09-28 23:41:33.362 (0x7ffc7fb6cf20) Warning: The X11 connection broke: I/O error (code 1)
+2019-09-28 23:41:35.506 (0x7ffe72f36720) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-09-28 23:41:35.507 (0x7ffe72f36720) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-10-01 20:38:49.310 (0x7fff57470840) Debug: New PolkitAgentListener  0x55ce4721b280
+2019-10-01 20:38:49.379 (0x7fff57470840) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff57470850) for  0x55ce4721b280
+2019-10-01 20:38:55.049 (0x7ffc701fb4a0) Debug: systemd: "CanHibernate" = "yes"
+2019-10-01 20:38:55.653 (0x7ffc701fb4a0) Debug: systemd: "CanSuspend" = "yes"
+2019-10-01 20:38:55.882 (0x7ffec565e160) Debug: systemd: "CanReboot" = "yes"
+2019-10-01 20:38:56.049 (0x7ffec565e160) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-01 20:38:57.325 (0x7ffe62880c60) Debug: ()
+2019-10-01 20:38:59.269 (0x7ffe62880c60) Debug: WinIdChange 1400008 handle QWidgetWindow(0x55e479c7da90, name="LXQtPanel panel1Window") QScreen(0x55e479928e20, name="HDMI-1")
+2019-10-01 20:39:24.305 (0x7ffe62880c60) Debug: Systray started
+2019-10-01 20:39:28.703 (0x7fffe20359f0) Debug: Starting idlenesswatcher
+2019-10-06 12:03:32.685 (0x7ffe62880c60) Debug: execAction "/usr/share/applications/lxqt-leave.desktop"
+2019-10-06 12:03:32.833 (0x7ffec565e160) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-06 12:03:32.848 (0x7ffd75afaaa0) Debug: systemd: "CanSuspend" = "yes"
+2019-10-06 12:03:32.853 (0x7ffec565e160) Debug: systemd: "CanReboot" = "yes"
+2019-10-06 12:03:32.865 (0x7ffd75afaaa0) Debug: systemd: "CanHibernate" = "yes"
+2019-10-06 12:03:41.461 (0x7ffe62880c60) Debug: execAction "/usr/share/applications/lxqt-leave.desktop"
+2019-10-06 12:03:41.561 (0x7ffec565e160) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-06 12:03:41.574 (0x7ffe3d852c60) Debug: systemd: "CanSuspend" = "yes"
+2019-10-06 12:03:41.581 (0x7ffec565e160) Debug: systemd: "CanReboot" = "yes"
+2019-10-06 12:03:41.596 (0x7ffe3d852c60) Debug: systemd: "CanHibernate" = "yes"
+2019-10-06 12:05:24.868 (0x7ffe3e029c90) Debug: Connecting to KScreen...
+2019-10-06 12:19:13.894 (0x7ffe62880c60) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2019-10-06 12:22:43.476 (0x7ffe000bc490) Debug: Connecting to KScreen...
+2019-10-06 12:22:58.434 (0x7ffe95da08f0) Debug: No outputs have backlight property
+2019-10-06 12:22:58.434 (0x7ffe95da08f0) Debug: Found output: "DVI-D-1"
+2019-10-06 12:22:58.434 (0x7ffe95da08f0) Debug: Output is not connected
+2019-10-06 12:22:58.434 (0x7ffe95da08f0) Debug: Found output: "HDMI-1"
+2019-10-06 12:22:58.434 (0x7ffe95da08f0) Debug: Output: "HDMI-1" added
+2019-10-06 12:22:58.435 (0x7ffe95da08f0) Debug: Found output: "VGA-1"
+2019-10-06 12:22:58.435 (0x7ffe95da08f0) Debug: Output is not connected
+2019-10-06 12:25:06.591 (0x7ffcd4ff6af0) Debug: No outputs have backlight property
+2019-10-06 12:25:06.592 (0x7ffcd4ff6af0) Debug: Found output: "DVI-D-1"
+2019-10-06 12:25:06.592 (0x7ffcd4ff6af0) Debug: Output is not connected
+2019-10-06 12:25:06.592 (0x7ffcd4ff6af0) Debug: Found output: "HDMI-1"
+2019-10-06 12:25:06.592 (0x7ffcd4ff6af0) Debug: Output: "HDMI-1" added
+2019-10-06 12:25:06.592 (0x7ffcd4ff6af0) Debug: Found output: "VGA-1"
+2019-10-06 12:25:06.592 (0x7ffcd4ff6af0) Debug: Output is not connected
+2019-10-06 15:00:49.804 (0x7ffe62880c60) Debug: execAction "/usr/share/applications/lxqt-leave.desktop"
+2019-10-06 15:00:49.886 (0x7ffec565e160) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-06 15:00:49.898 (0x7fffb23bea30) Debug: systemd: "CanSuspend" = "yes"
+2019-10-06 15:00:49.904 (0x7ffec565e160) Debug: systemd: "CanReboot" = "yes"
+2019-10-06 15:00:49.914 (0x7fffb23bea30) Debug: systemd: "CanHibernate" = "yes"
+2019-10-06 15:00:54.023 (0x7fffb23bea30) Debug: systemd: "CanSuspend" = "yes"
+2019-10-13 14:23:28.684 (0x7ffe62880c60) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 65409, resource id: 46137414, major code: 18 (ChangeProperty), minor code: 0
+2019-10-13 14:42:00.533 (0x7ffc701fb4a0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-13 14:42:01.582 (0x7ffe62880c60) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-13 15:03:48.994 (0x7ffe62880c60) Warning: The X11 connection broke: I/O error (code 1)
+2019-10-13 15:03:49.253 (0x7ffec565e160) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-10-13 15:03:50.578 (0x7ffec565e160) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-10-14 20:31:47.661 (0x7ffed3263910) Debug: New PolkitAgentListener  0x564e368a3280
+2019-10-14 20:31:47.740 (0x7ffed3263910) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffed3263920) for  0x564e368a3280
+2019-10-14 20:31:53.525 (0x7ffe10ae8600) Debug: systemd: "CanHibernate" = "yes"
+2019-10-14 20:31:54.178 (0x7ffe10ae8600) Debug: systemd: "CanSuspend" = "yes"
+2019-10-14 20:31:54.624 (0x7ffd44f2f250) Debug: systemd: "CanReboot" = "yes"
+2019-10-14 20:31:55.141 (0x7ffd44f2f250) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-14 20:31:56.334 (0x7ffe10ae8600) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-14 20:31:57.270 (0x7ffe4ced47f0) Debug: ()
+2019-10-14 20:31:58.497 (0x7ffe4ced47f0) Debug: WinIdChange 1000008 handle QWidgetWindow(0x55b3aafc9610, name="LXQtPanel panel1Window") QScreen(0x55b3aac65de0, name="HDMI-1")
+2019-10-14 20:32:23.259 (0x7ffe4ced47f0) Debug: Systray started
+2019-10-14 20:32:27.549 (0x7ffdab4573c0) Debug: Starting idlenesswatcher
+2019-10-14 20:32:27.888 (0x7ffe4ced47f0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-14 20:43:00.850 (0x7ffe4ced47f0) Warning: "Failed to get sink information: No such entity"
+2019-10-14 21:55:07.355 (0x7ffe4ced47f0) Warning: "Failed to get sink information: No such entity"
+2019-10-14 21:58:10.195 (0x7ffe4ced47f0) Warning: "Failed to get sink information: No such entity"
+2019-10-14 22:07:31.143 (0x7ffe9749c4b0) Warning: The X11 connection broke: I/O error (code 1)
+2019-10-14 22:07:31.144 (0x7ffe4ced47f0) Debug: Service "org.freedesktop.StatusNotifierItem-1166-1" unregistered
+2019-10-14 22:07:31.167 (0x7ffe4ced47f0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-14 22:07:33.561 (0x7ffd44f2f250) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-10-14 22:07:33.562 (0x7ffd44f2f250) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-10-14 22:09:17.160 (0x7ffd7551e6d0) Debug: New PolkitAgentListener  0x561d942b1a80
+2019-10-14 22:09:17.241 (0x7ffd7551e6d0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd7551e6e0) for  0x561d942b1a80
+2019-10-14 22:09:22.865 (0x7fffd825e590) Debug: systemd: "CanHibernate" = "yes"
+2019-10-14 22:09:23.124 (0x7fffd825e590) Debug: systemd: "CanSuspend" = "yes"
+2019-10-14 22:09:23.255 (0x7ffeac05f340) Debug: systemd: "CanReboot" = "yes"
+2019-10-14 22:09:23.471 (0x7ffeac05f340) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-14 22:09:24.568 (0x7fffd825e590) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-14 22:09:24.677 (0x7ffe0c4f73b0) Debug: ()
+2019-10-14 22:09:26.293 (0x7ffe0c4f73b0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55f87d8ab360, name="LXQtPanel panel1Window") QScreen(0x55f87d54ce20, name="HDMI-1")
+2019-10-14 22:09:26.690 (0x7ffe0c4f73b0) Debug: Systray started
+2019-10-14 22:09:31.120 (0x7ffeeb0cfc40) Debug: Starting idlenesswatcher
+2019-10-14 22:09:31.516 (0x7ffe0c4f73b0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-18 00:28:02.432 (0x7fff5950f540) Warning: Empty filename passed to function
+2019-10-18 23:26:52.521 (0x7ffe0c4f73b0) Warning: The X11 connection broke: I/O error (code 1)
+2019-10-18 23:26:53.948 (0x7ffeac05f340) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-10-18 23:26:53.948 (0x7ffeac05f340) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-10-18 23:28:42.822 (0x7ffe11eb5a20) Debug: New PolkitAgentListener  0x55b7f8e62280
+2019-10-18 23:28:42.915 (0x7ffe11eb5a20) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe11eb5a30) for  0x55b7f8e62280
+2019-10-18 23:28:48.670 (0x7ffca381ed20) Debug: systemd: "CanHibernate" = "yes"
+2019-10-18 23:28:49.289 (0x7ffca381ed20) Debug: systemd: "CanSuspend" = "yes"
+2019-10-18 23:28:49.644 (0x7ffdb4901cf0) Debug: systemd: "CanReboot" = "yes"
+2019-10-18 23:28:49.964 (0x7ffdb4901cf0) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-18 23:28:50.957 (0x7ffca381ed20) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-18 23:28:51.410 (0x7fff8af83420) Debug: ()
+2019-10-18 23:28:52.657 (0x7fff8af83420) Debug: WinIdChange 1000008 handle QWidgetWindow(0x55c209160ee0, name="LXQtPanel panel1Window") QScreen(0x55c208decb60, name="HDMI-1")
+2019-10-18 23:29:17.894 (0x7fff8af83420) Debug: Systray started
+2019-10-18 23:29:22.268 (0x7ffe4eece900) Debug: Starting idlenesswatcher
+2019-10-18 23:29:22.623 (0x7fff8af83420) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-23 22:09:22.120 (0x7fff8af83420) Debug: Service "org.freedesktop.StatusNotifierItem-4487-1" unregistered
+2019-10-23 22:43:41.022 (0x7ffd7525d360) Warning: The X11 connection broke: I/O error (code 1)
+2019-10-23 22:43:41.024 (0x7ffd7525d360) Warning: QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+2019-10-23 22:43:41.041 (0x7fff8af83420) Warning: The X11 connection broke: I/O error (code 1)
+2019-10-23 22:43:43.136 (0x7ffdb4901cf0) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-10-23 22:43:43.137 (0x7ffdb4901cf0) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-10-23 22:45:25.480 (0x7ffff07cda50) Debug: New PolkitAgentListener  0x561d95644880
+2019-10-23 22:45:25.556 (0x7ffff07cda50) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffff07cda60) for  0x561d95644880
+2019-10-23 22:45:31.727 (0x7fff12fbca70) Debug: systemd: "CanHibernate" = "yes"
+2019-10-23 22:45:31.970 (0x7fff12fbca70) Debug: systemd: "CanSuspend" = "yes"
+2019-10-23 22:45:32.232 (0x7ffcc5347e80) Debug: systemd: "CanReboot" = "yes"
+2019-10-23 22:45:32.374 (0x7ffcc5347e80) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-23 22:45:33.024 (0x7fff12fbca70) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-23 22:45:34.005 (0x7ffd0e4d5550) Debug: ()
+2019-10-23 22:45:35.208 (0x7ffd0e4d5550) Debug: WinIdChange 1400008 handle QWidgetWindow(0x55934c070fa0, name="LXQtPanel panel1Window") QScreen(0x55934bd0c0b0, name="HDMI-1")
+2019-10-23 22:46:00.298 (0x7ffd0e4d5550) Debug: Systray started
+2019-10-23 22:46:04.655 (0x7ffe88ab08e0) Debug: Starting idlenesswatcher
+2019-10-23 22:46:05.019 (0x7ffd0e4d5550) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-23 22:46:28.842 (0x7ffd0e4d5550) Debug: execAction "/usr/share/applications/featherpad.desktop"
+2019-10-23 22:46:32.302 (0x7ffd0e4d5550) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1134, resource id: 35651590, major code: 18 (ChangeProperty), minor code: 0
+2019-10-24 19:14:39.558 (0x7ffd0e4d5550) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 15733, resource id: 35651597, major code: 18 (ChangeProperty), minor code: 0
+2019-10-24 20:25:19.928 (0x7ffca657dde0) Warning: The X11 connection broke: I/O error (code 1)
+2019-10-24 20:54:31.900 (0x7fff75c67030) Debug: New PolkitAgentListener  0x55cf09a95a80
+2019-10-24 20:54:31.957 (0x7fff75c67030) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff75c67040) for  0x55cf09a95a80
+2019-10-24 20:54:38.568 (0x7ffc137a8f40) Debug: systemd: "CanHibernate" = "yes"
+2019-10-24 20:54:38.946 (0x7ffc137a8f40) Debug: systemd: "CanSuspend" = "yes"
+2019-10-24 20:54:39.071 (0x7ffe957a4100) Debug: systemd: "CanReboot" = "yes"
+2019-10-24 20:54:39.488 (0x7ffe957a4100) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-24 20:54:40.350 (0x7ffc137a8f40) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-24 20:54:40.665 (0x7ffffc88fec0) Debug: ()
+2019-10-24 20:54:42.025 (0x7ffffc88fec0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55c00ca13960, name="LXQtPanel panel1Window") QScreen(0x55c00c6a1170, name="HDMI-1")
+2019-10-24 20:54:42.391 (0x7ffffc88fec0) Debug: Systray started
+2019-10-24 20:54:46.727 (0x7fff318d72a0) Debug: Starting idlenesswatcher
+2019-10-24 20:54:47.100 (0x7ffffc88fec0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-24 22:23:13.388 (0x7ffc137a8f40) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-24 22:30:08.943 (0x7ffffc88fec0) Warning: UdevQt: unhandled device action "unbind"
+2019-10-24 22:30:09.010 (0x7ffffc88fec0) Warning: UdevQt: unhandled device action "unbind"
+2019-10-24 22:30:09.013 (0x7ffffc88fec0) Warning: UdevQt: unhandled device action "unbind"
+2019-10-24 22:30:09.550 (0x7ffe957a4100) Warning: "Session 'session', new input device '/dev/input/event9', keyboard setting will be (optionaly) reloaded..."
+2019-10-24 22:30:09.572 (0x7ffe957a4100) Warning: "Session 'session', new input device '/dev/input/event7', keyboard setting will be (optionaly) reloaded..."
+2019-10-24 22:30:09.635 (0x7ffe957a4100) Warning: "Session 'session', new input device '/dev/input/event8', keyboard setting will be (optionaly) reloaded..."
+2019-10-24 22:30:09.636 (0x7ffffc88fec0) Warning: UdevQt: unhandled device action "bind"
+2019-10-24 22:30:09.636 (0x7ffffc88fec0) Warning: UdevQt: unhandled device action "bind"
+2019-10-24 22:30:09.636 (0x7ffffc88fec0) Warning: UdevQt: unhandled device action "bind"
+2019-10-25 19:19:13.565 (0x7ffe957a4100) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-25 19:19:13.570 (0x7ffe73b256f0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-25 19:19:13.574 (0x7ffceaf7aa80) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-25 19:19:13.575 (0x7fff75c67030) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-25 19:19:13.580 (0x7ffffc88fec0) Warning: The X11 connection broke: I/O error (code 1)
+2019-10-25 19:19:13.582 (0x7ffc137a8f40) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-25 19:19:13.590 (0x7fff318d72a0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-25 19:19:13.620 (0x7ffffc88fec0) Critical: unable to write into socketpair: Bad file descriptor
+2019-10-25 19:19:13.632 (0x7ffffc88fec0) Critical: unable to write into socketpair: Bad file descriptor
+2019-10-25 20:00:29.549 (0x7ffdeaf0f020) Debug: New PolkitAgentListener  0x555ef0d55e80
+2019-10-25 20:00:29.636 (0x7ffdeaf0f020) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffdeaf0f030) for  0x555ef0d55e80
+2019-10-25 20:00:36.713 (0x7ffc8bb39710) Debug: systemd: "CanHibernate" = "yes"
+2019-10-25 20:00:37.304 (0x7ffc8bb39710) Debug: systemd: "CanSuspend" = "yes"
+2019-10-25 20:00:37.728 (0x7ffddf9c0280) Debug: systemd: "CanReboot" = "yes"
+2019-10-25 20:00:38.022 (0x7ffddf9c0280) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-25 20:00:39.379 (0x7ffd0edf7dc0) Debug: ()
+2019-10-25 20:00:39.485 (0x7ffc8bb39710) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-25 20:00:40.771 (0x7ffd0edf7dc0) Debug: WinIdChange 1000008 handle QWidgetWindow(0x561c8f20f750, name="LXQtPanel panel1Window") QScreen(0x561c8ee90170, name="HDMI-1")
+2019-10-25 20:00:41.122 (0x7ffd0edf7dc0) Debug: Systray started
+2019-10-25 20:00:45.431 (0x7ffdef0b4610) Debug: Starting idlenesswatcher
+2019-10-25 20:00:45.787 (0x7ffd0edf7dc0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-28 20:10:48.332 (0x7ffe31eb8b20) Debug: New PolkitAgentListener  0x55d228684880
+2019-10-28 20:10:48.601 (0x7ffe31eb8b20) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe31eb8b30) for  0x55d228684880
+2019-10-28 20:10:55.034 (0x7ffc3e868060) Debug: systemd: "CanHibernate" = "yes"
+2019-10-28 20:10:55.319 (0x7ffc3e868060) Debug: systemd: "CanSuspend" = "yes"
+2019-10-28 20:10:55.604 (0x7fffc6a3b540) Debug: systemd: "CanReboot" = "yes"
+2019-10-28 20:10:55.769 (0x7fffc6a3b540) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-28 20:10:56.896 (0x7ffc3e868060) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-28 20:10:57.477 (0x7ffd0dd46bd0) Debug: ()
+2019-10-28 20:10:58.862 (0x7ffd0dd46bd0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55fc40be8b40, name="LXQtPanel panel1Window") QScreen(0x55fc4088b170, name="HDMI-1")
+2019-10-28 20:11:23.470 (0x7ffd0dd46bd0) Debug: Systray started
+2019-10-28 20:11:27.828 (0x7ffcedae9730) Debug: Starting idlenesswatcher
+2019-10-28 20:11:28.172 (0x7ffd0dd46bd0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-10-29 23:21:04.259 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "unbind"
+2019-10-29 23:21:04.337 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "unbind"
+2019-10-29 23:21:04.339 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "unbind"
+2019-10-29 23:21:04.855 (0x7fffc6a3b540) Warning: "Session 'session', new input device '/dev/input/event9', keyboard setting will be (optionaly) reloaded..."
+2019-10-29 23:21:04.896 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "bind"
+2019-10-29 23:21:04.903 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "bind"
+2019-10-29 23:21:04.908 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "bind"
+2019-10-29 23:21:04.928 (0x7fffc6a3b540) Warning: "Session 'session', new input device '/dev/input/event7', keyboard setting will be (optionaly) reloaded..."
+2019-10-29 23:21:04.928 (0x7fffc6a3b540) Warning: "Session 'session', new input device '/dev/input/event8', keyboard setting will be (optionaly) reloaded..."
+2019-10-31 19:03:26.122 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "unbind"
+2019-10-31 19:03:26.122 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "bind"
+2019-10-31 19:03:26.123 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "unbind"
+2019-10-31 19:03:26.123 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "unbind"
+2019-10-31 19:03:26.123 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "bind"
+2019-10-31 19:03:26.123 (0x7ffd0dd46bd0) Warning: UdevQt: unhandled device action "bind"
+2019-10-31 19:03:26.145 (0x7fffc6a3b540) Warning: "Session 'session', new input device '/dev/input/event21', keyboard setting will be (optionaly) reloaded..."
+2019-10-31 19:03:26.145 (0x7fffc6a3b540) Warning: "Session 'session', new input device '/dev/input/event18', keyboard setting will be (optionaly) reloaded..."
+2019-10-31 19:03:26.145 (0x7fffc6a3b540) Warning: "Session 'session', new input device '/dev/input/event19', keyboard setting will be (optionaly) reloaded..."
+2019-10-31 19:03:26.146 (0x7fffc6a3b540) Warning: "Session 'session', new input device '/dev/input/event20', keyboard setting will be (optionaly) reloaded..."
+2019-10-31 20:30:59.812 (0x7fffc6a3b540) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-31 20:30:59.831 (0x7ffe2effd650) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-31 20:30:59.833 (0x7ffdefb6be30) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-31 20:30:59.834 (0x7ffe2effd650) Warning: The X11 connection broke: I/O error (code 1)
+2019-10-31 20:30:59.836 (0x7ffe31eb8b20) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-31 20:30:59.842 (0x7ffd0dd46bd0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-31 20:30:59.844 (0x7ffc3e868060) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-31 20:30:59.853 (0x7ffcedae9730) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-10-31 20:30:59.900 (0x7ffd0dd46bd0) Critical: unable to write into socketpair: Bad file descriptor
+2019-10-31 20:30:59.960 (0x7ffd0dd46bd0) Critical: unable to write into socketpair: Bad file descriptor
+2019-11-06 21:14:58.753 (0x7ffdab613cc0) Debug: New PolkitAgentListener  0x55e7cbf1e280
+2019-11-06 21:14:59.005 (0x7ffdab613cc0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffdab613cd0) for  0x55e7cbf1e280
+2019-11-06 21:15:05.293 (0x7ffe5f6e1b20) Debug: systemd: "CanHibernate" = "yes"
+2019-11-06 21:15:05.707 (0x7ffe5f6e1b20) Debug: systemd: "CanSuspend" = "yes"
+2019-11-06 21:15:05.820 (0x7ffca29d4340) Debug: systemd: "CanReboot" = "yes"
+2019-11-06 21:15:06.024 (0x7ffca29d4340) Debug: systemd: "CanPowerOff" = "yes"
+2019-11-06 21:15:06.997 (0x7ffd18e00a40) Debug: ()
+2019-11-06 21:15:07.154 (0x7ffe5f6e1b20) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-06 21:15:08.591 (0x7ffd18e00a40) Debug: WinIdChange 1200008 handle QWidgetWindow(0x563b9ec62b40, name="LXQtPanel panel1Window") QScreen(0x563b9e912dd0, name="DVI-D-1")
+2019-11-06 21:15:08.965 (0x7ffd18e00a40) Debug: Systray started
+2019-11-06 21:15:13.676 (0x7ffd18e00a40) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-06 21:15:13.881 (0x7ffe00013b50) Debug: Starting idlenesswatcher
+2019-11-06 21:17:16.166 (0x7ffd18e00a40) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1913, resource id: 35651587, major code: 18 (ChangeProperty), minor code: 0
+2019-11-06 21:18:01.737 (0x7ffd18e00a40) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-06 21:18:03.956 (0x7ffca29d4340) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-11-06 21:18:03.957 (0x7ffca29d4340) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-11-06 21:21:50.231 (0x7ffc7bcb9b50) Debug: New PolkitAgentListener  0x556574c96880
+2019-11-06 21:21:50.454 (0x7ffc7bcb9b50) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc7bcb9b60) for  0x556574c96880
+2019-11-06 21:21:57.084 (0x7ffe511eeb60) Debug: systemd: "CanHibernate" = "yes"
+2019-11-06 21:21:57.510 (0x7ffe511eeb60) Debug: systemd: "CanSuspend" = "yes"
+2019-11-06 21:21:57.642 (0x7ffdb0720a00) Debug: systemd: "CanReboot" = "yes"
+2019-11-06 21:21:57.898 (0x7ffdb0720a00) Debug: systemd: "CanPowerOff" = "yes"
+2019-11-06 21:21:58.944 (0x7fffc8a8d080) Debug: ()
+2019-11-06 21:21:59.038 (0x7ffe511eeb60) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-06 21:22:00.661 (0x7fffc8a8d080) Debug: WinIdChange 1000008 handle QWidgetWindow(0x55ff31fde360, name="LXQtPanel panel1Window") QScreen(0x55ff31c95db0, name="DVI-D-1")
+2019-11-06 21:22:25.777 (0x7fffc8a8d080) Debug: Systray started
+2019-11-06 21:22:30.262 (0x7fff94bfa420) Debug: Starting idlenesswatcher
+2019-11-06 21:22:30.625 (0x7fffc8a8d080) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-06 21:22:50.816 (0x7fffc8a8d080) Debug: execAction "/usr/share/applications/featherpad.desktop"
+2019-11-06 21:22:53.621 (0x7fffc8a8d080) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 980, resource id: 35651590, major code: 18 (ChangeProperty), minor code: 0
+2019-11-06 21:23:13.180 (0x7fffc8a8d080) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1460, resource id: 35651587, major code: 18 (ChangeProperty), minor code: 0
+2019-11-06 21:23:35.416 (0x7fffc8a8d080) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2341, resource id: 35651587, major code: 18 (ChangeProperty), minor code: 0
+2019-11-06 21:25:25.965 (0x7ffd9c58cb60) Debug: Connecting to KScreen...
+2019-11-06 21:25:26.026 (0x7ffd9c58cb60) Debug: Width x Height 2.59109 x 1.66924
+2019-11-06 21:25:26.027 (0x7ffd9c58cb60) Debug: Width x Height 2.59109 x 1.66924
+2019-11-06 21:25:26.027 (0x7ffd9c58cb60) Debug: Width x Height 1.38192 x 1.18702
+2019-11-06 21:25:47.443 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:25:48.393 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:25:49.344 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:25:50.293 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:25:55.322 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:25:56.121 (0x7ffd9c58cb60) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Read: 0
+2019-11-06 21:25:56.121 (0x7ffd9c58cb60) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Write: 1
+2019-11-06 21:26:20.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:26:21.112 (0x7ffd9c58cb60) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Read: 1
+2019-11-06 21:26:21.112 (0x7ffd9c58cb60) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Write: 2
+2019-11-06 21:26:24.640 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:26:38.928 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:26:39.878 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:26:40.828 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:26:41.779 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:26:42.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:26:43.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:26:44.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:26:45.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:26:46.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:26:47.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:26:55.076 (0x7ffd9c58cb60) Debug: Width x Height 1.38192 x 1.18702
+2019-11-06 21:26:55.076 (0x7ffd9c58cb60) Debug: Width x Height 1.38192 x 1.18702
+2019-11-06 21:26:55.076 (0x7ffd9c58cb60) Debug: Width x Height 1.38192 x 1.18702
+2019-11-06 21:26:57.456 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:26:58.406 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:26:59.357 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:27:00.306 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:27:01.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:27:02.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:27:03.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:27:04.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:27:05.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:27:06.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:27:15.894 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:27:16.845 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:27:17.794 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:27:18.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:27:19.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:27:20.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:27:21.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:27:22.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:27:23.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:27:24.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:27:35.804 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:27:36.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:27:37.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:27:38.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:27:39.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:27:40.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:27:41.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:27:42.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:27:43.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:27:44.759 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:27:48.052 (0x7ffd9c58cb60) Debug: minWidgetLength 221 maxMonitorSize 4864 scale 0.0454359
+2019-11-06 21:28:38.835 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:28:39.785 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:28:40.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:28:41.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:28:42.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:28:43.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:28:44.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:28:45.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:28:46.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:28:47.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:29:34.110 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:29:35.160 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:29:36.210 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:29:37.399 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:32:17.318 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:32:18.268 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:32:19.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:32:20.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:32:21.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:32:22.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:32:23.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:32:24.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:32:25.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:32:26.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:33:39.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:33:40.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:33:41.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:33:42.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:33:43.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:33:44.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:33:45.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:33:46.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:33:47.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:33:48.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:34:13.070 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:34:14.120 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:34:15.444 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:36:53.152 (0x7ffd9c58cb60) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 11831, resource id: 4240426, major code: 40 (TranslateCoords), minor code: 0
+2019-11-06 21:36:56.680 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:36:57.730 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:36:58.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:36:59.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:37:00.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:37:01.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:37:02.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:37:03.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:37:04.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:37:05.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:49:40.890 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:49:41.840 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:49:42.790 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:49:43.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:49:44.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:49:45.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:49:46.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:49:47.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:49:48.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:49:49.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:50:05.885 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:50:06.835 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:50:07.785 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:50:08.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:50:09.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:50:10.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:50:11.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:50:12.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:50:13.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:50:14.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:51:23.912 (0x7ffd9c58cb60) Debug: Width x Height 2.59109 x 1.85471
+2019-11-06 21:51:27.693 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:51:28.396 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:51:29.346 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:51:30.297 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:51:31.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:51:32.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:51:33.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:51:34.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:51:35.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:51:36.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:51:58.870 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:51:59.820 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:52:00.771 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:52:01.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:52:02.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:52:03.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:52:04.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:52:05.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:52:06.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:52:07.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:52:26.431 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:52:27.382 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:52:28.332 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:52:29.282 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:52:30.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:52:31.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:52:32.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:52:33.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:52:34.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:52:35.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:52:46.624 (0x7ffd9c58cb60) Debug: Width x Height 1.38192 x 1.18702
+2019-11-06 21:52:48.998 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:52:49.775 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:52:50.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:52:51.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:52:52.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:52:53.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:52:54.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:52:55.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:52:56.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:52:57.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:53:14.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:53:15.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:53:16.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:53:17.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:53:18.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:53:19.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:53:20.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:53:21.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:53:22.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:53:23.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:53:45.205 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:53:46.255 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:53:47.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:53:48.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:53:49.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:53:50.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:53:51.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:53:52.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:53:53.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:53:54.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:54:19.423 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:54:20.373 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:54:21.323 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:54:22.273 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:54:23.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:54:24.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:54:25.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:54:26.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:54:27.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:54:28.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:54:40.232 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:54:41.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:54:42.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:54:43.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:54:44.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:54:45.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:54:46.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:54:47.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:54:48.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:54:49.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:55:56.513 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:55:57.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:55:58.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:55:59.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:56:00.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:56:01.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:56:02.257 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:56:03.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:56:04.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:56:05.258 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 21:56:19.865 (0x7ffd9c58cb60) Debug: Width x Height 2.59109 x 1.66924
+2019-11-06 21:56:23.818 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 21:56:24.768 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 21:56:25.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 21:56:26.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 21:56:27.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 21:56:28.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 21:56:29.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 21:56:30.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 21:56:31.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 21:56:32.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 22:12:29.912 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-11-06 22:12:30.863 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-11-06 22:12:31.813 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-11-06 22:12:32.763 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-11-06 22:12:33.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-11-06 22:12:34.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-11-06 22:12:35.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-11-06 22:12:36.757 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-11-06 22:12:37.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-11-06 22:12:38.758 (0x7ffd9c58cb60) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-11-06 22:27:03.932 (0x7fffc8a8d080) Warning: UdevQt: unhandled device action "unbind"
+2019-11-06 22:27:04.007 (0x7fffc8a8d080) Warning: UdevQt: unhandled device action "unbind"
+2019-11-06 22:27:04.009 (0x7fffc8a8d080) Warning: UdevQt: unhandled device action "unbind"
+2019-11-06 22:27:04.543 (0x7ffdb0720a00) Warning: "Session 'session', new input device '/dev/input/event9', keyboard setting will be (optionaly) reloaded..."
+2019-11-06 22:27:04.569 (0x7ffdb0720a00) Warning: "Session 'session', new input device '/dev/input/event7', keyboard setting will be (optionaly) reloaded..."
+2019-11-06 22:27:04.572 (0x7fffc8a8d080) Warning: UdevQt: unhandled device action "bind"
+2019-11-06 22:27:04.580 (0x7ffdb0720a00) Warning: "Session 'session', new input device '/dev/input/event8', keyboard setting will be (optionaly) reloaded..."
+2019-11-06 22:27:04.583 (0x7fffc8a8d080) Warning: UdevQt: unhandled device action "bind"
+2019-11-06 22:27:04.591 (0x7fffc8a8d080) Warning: UdevQt: unhandled device action "bind"
+2019-11-06 22:35:50.731 (0x7fffc8a8d080) Warning: The X11 connection broke: I/O error (code 1)
+2019-11-06 22:35:53.026 (0x7ffdb0720a00) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2019-11-06 22:35:53.027 (0x7ffdb0720a00) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2019-11-06 22:37:49.177 (0x7ffd896962b0) Debug: New PolkitAgentListener  0x55eaf46bc680
+2019-11-06 22:37:49.284 (0x7ffd896962b0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd896962c0) for  0x55eaf46bc680
+2019-11-06 22:37:54.843 (0x7ffc70295310) Debug: systemd: "CanHibernate" = "yes"
+2019-11-06 22:37:55.207 (0x7ffc70295310) Debug: systemd: "CanSuspend" = "yes"
+2019-11-06 22:37:55.284 (0x7ffe5c814010) Debug: systemd: "CanReboot" = "yes"
+2019-11-06 22:37:55.449 (0x7ffe5c814010) Debug: systemd: "CanPowerOff" = "yes"
+2019-11-06 22:37:56.487 (0x7ffe7e43cb10) Debug: ()
+2019-11-06 22:37:56.553 (0x7ffc70295310) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-06 22:37:57.941 (0x7ffe7e43cb10) Debug: WinIdChange 1400008 handle QWidgetWindow(0x5608db5f08a0, name="LXQtPanel panel1Window") QScreen(0x5608db29ce30, name="DVI-D-1")
+2019-11-06 22:37:58.313 (0x7ffe7e43cb10) Debug: Systray started
+2019-11-06 22:38:02.653 (0x7ffd466e8540) Debug: Starting idlenesswatcher
+2019-11-06 22:38:02.966 (0x7ffe7e43cb10) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-24 11:20:34.407 (0x7ffe5c814010) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-24 11:22:30.369 (0x7fff09331d20) Debug: New PolkitAgentListener  0x565257a28880
+2019-11-24 11:22:30.438 (0x7fff09331d20) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff09331d30) for  0x565257a28880
+2019-11-24 11:22:37.184 (0x7fffd6b67040) Debug: systemd: "CanHibernate" = "yes"
+2019-11-24 11:22:37.668 (0x7fffd6b67040) Debug: systemd: "CanSuspend" = "yes"
+2019-11-24 11:22:38.012 (0x7ffd50af7140) Debug: systemd: "CanReboot" = "yes"
+2019-11-24 11:22:38.344 (0x7ffd50af7140) Debug: systemd: "CanPowerOff" = "yes"
+2019-11-24 11:22:38.949 (0x7ffd51f688d0) Debug: ()
+2019-11-24 11:22:39.138 (0x7fffd6b67040) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-24 11:22:40.406 (0x7ffd51f688d0) Debug: WinIdChange 1600008 handle QWidgetWindow(0x5568292a24a0, name="LXQtPanel panel1Window") QScreen(0x556828f38ac0, name="DVI-D-1")
+2019-11-24 11:23:05.314 (0x7ffd51f688d0) Debug: Systray started
+2019-11-24 11:23:05.545 (0x7fffe435d070) Debug: Starting idlenesswatcher
+2019-11-24 11:23:10.121 (0x7ffd51f688d0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-24 11:24:03.687 (0x7ffd51f688d0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1338, resource id: 39845924, major code: 18 (ChangeProperty), minor code: 0
+2019-11-25 21:43:21.222 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "unbind"
+2019-11-25 21:43:24.316 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "unbind"
+2019-11-25 21:43:24.316 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "unbind"
+2019-11-25 21:43:24.316 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "unbind"
+2019-11-25 21:43:24.317 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "unbind"
+2019-11-25 21:43:24.317 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "bind"
+2019-11-25 21:43:24.318 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "bind"
+2019-11-25 21:43:24.318 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "bind"
+2019-11-25 21:43:24.319 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "bind"
+2019-11-25 21:43:24.319 (0x7ffd51f688d0) Warning: UdevQt: unhandled device action "bind"
+2019-11-25 21:43:24.374 (0x7ffd50af7140) Warning: "Session 'session', new input device '/dev/input/mouse1', keyboard setting will be (optionaly) reloaded..."
+2019-11-25 21:43:24.374 (0x7ffd50af7140) Warning: "Session 'session', new input device '/dev/input/event2', keyboard setting will be (optionaly) reloaded..."
+2019-11-25 21:43:24.375 (0x7ffd50af7140) Warning: "Session 'session', new input device '/dev/input/event6', keyboard setting will be (optionaly) reloaded..."
+2019-11-25 21:43:24.375 (0x7ffd50af7140) Warning: "Session 'session', new input device '/dev/input/event3', keyboard setting will be (optionaly) reloaded..."
+2019-11-25 21:43:24.375 (0x7ffd50af7140) Warning: "Session 'session', new input device '/dev/input/event4', keyboard setting will be (optionaly) reloaded..."
+2019-11-25 21:43:24.375 (0x7ffd50af7140) Warning: "Session 'session', new input device '/dev/input/event5', keyboard setting will be (optionaly) reloaded..."
+2019-11-25 22:51:02.166 (0x7ffd50af7140) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-25 22:51:02.173 (0x7ffc32cabde0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-25 22:51:02.174 (0x7fff32d78af0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-25 22:51:02.177 (0x7fff09331d20) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-25 22:51:02.184 (0x7ffd51f688d0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-26 22:33:28.750 (0x7ffe4342fc60) Debug: New PolkitAgentListener  0x55e801351680
+2019-11-26 22:33:28.832 (0x7ffe4342fc60) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe4342fc70) for  0x55e801351680
+2019-11-26 22:33:35.140 (0x7fff89e26710) Debug: systemd: "CanHibernate" = "yes"
+2019-11-26 22:33:35.485 (0x7fff89e26710) Debug: systemd: "CanSuspend" = "yes"
+2019-11-26 22:33:35.701 (0x7fffea0da6f0) Debug: systemd: "CanReboot" = "yes"
+2019-11-26 22:33:36.044 (0x7fffea0da6f0) Debug: systemd: "CanPowerOff" = "yes"
+2019-11-26 22:33:37.072 (0x7ffcab3e8190) Debug: ()
+2019-11-26 22:33:37.438 (0x7fff89e26710) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-26 22:33:38.794 (0x7ffcab3e8190) Debug: WinIdChange 1600008 handle QWidgetWindow(0x5634cdd43170, name="LXQtPanel panel1Window") QScreen(0x5634cd9f9ac0, name="DVI-D-1")
+2019-11-26 22:34:03.647 (0x7ffcab3e8190) Debug: Systray started
+2019-11-26 22:34:08.079 (0x7ffda13231f0) Debug: Starting idlenesswatcher
+2019-11-26 22:34:08.580 (0x7ffcab3e8190) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-26 22:36:20.163 (0x7fff89e26710) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-29 20:58:18.559 (0x7ffc71592950) Debug: New PolkitAgentListener  0x562a08992680
+2019-11-29 20:58:18.631 (0x7ffc71592950) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc71592960) for  0x562a08992680
+2019-11-29 20:58:25.345 (0x7ffed0f3bbd0) Debug: systemd: "CanHibernate" = "yes"
+2019-11-29 20:58:25.858 (0x7ffed0f3bbd0) Debug: systemd: "CanSuspend" = "yes"
+2019-11-29 20:58:26.022 (0x7ffc30d41890) Debug: systemd: "CanReboot" = "yes"
+2019-11-29 20:58:26.445 (0x7ffc30d41890) Debug: systemd: "CanPowerOff" = "yes"
+2019-11-29 20:58:27.201 (0x7ffed0f3bbd0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-29 20:58:27.388 (0x7ffc80c156c0) Debug: ()
+2019-11-29 20:58:28.702 (0x7ffc80c156c0) Debug: WinIdChange 1800008 handle QWidgetWindow(0x56263f538d80, name="LXQtPanel panel1Window") QScreen(0x56263f271e00, name="DVI-D-1")
+2019-11-29 20:58:53.544 (0x7ffc80c156c0) Debug: Systray started
+2019-11-29 20:58:57.942 (0x7fff8a464060) Debug: Starting idlenesswatcher
+2019-11-29 20:58:58.321 (0x7ffc80c156c0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-11-29 21:01:21.705 (0x7ffc30d41890) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-29 21:01:21.711 (0x7fffb35bd860) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-29 21:01:21.712 (0x7ffecdeb3670) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-29 21:01:21.713 (0x7ffecdeb3670) Warning: The X11 connection broke: I/O error (code 1)
+2019-11-29 21:01:21.714 (0x7ffc80c156c0) Debug: Service "org.freedesktop.StatusNotifierItem-1208-1" unregistered
+2019-11-29 21:01:21.717 (0x7ffc71592950) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-29 21:01:21.719 (0x7ffed0f3bbd0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-11-29 21:01:21.722 (0x7ffc80c156c0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-12-05 23:01:45.494 (0x7ffd9edb02e0) Debug: New PolkitAgentListener  0x55b5250e1080
+2019-12-05 23:01:45.589 (0x7ffd9edb02e0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd9edb02f0) for  0x55b5250e1080
+2019-12-05 23:01:51.912 (0x7ffc431f4b20) Debug: systemd: "CanHibernate" = "yes"
+2019-12-05 23:01:52.260 (0x7ffc431f4b20) Debug: systemd: "CanSuspend" = "yes"
+2019-12-05 23:01:52.381 (0x7ffda6344fa0) Debug: systemd: "CanReboot" = "yes"
+2019-12-05 23:01:52.847 (0x7ffda6344fa0) Debug: systemd: "CanPowerOff" = "yes"
+2019-12-05 23:01:54.175 (0x7ffe29087a60) Debug: ()
+2019-12-05 23:01:54.416 (0x7ffc431f4b20) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-12-05 23:01:55.663 (0x7ffe29087a60) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55ce62df94e0, name="LXQtPanel panel1Window") QScreen(0x55ce62b51e00, name="DVI-D-1")
+2019-12-05 23:02:20.579 (0x7ffe29087a60) Debug: Systray started
+2019-12-05 23:02:24.873 (0x7ffe9f45c290) Debug: Starting idlenesswatcher
+2019-12-05 23:02:25.261 (0x7ffe29087a60) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-12-27 22:27:09.805 (0x7ffe1d7e8c40) Debug: New PolkitAgentListener  0x555dc0d90c80
+2019-12-27 22:27:10.017 (0x7ffe1d7e8c40) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe1d7e8c50) for  0x555dc0d90c80
+2019-12-27 22:27:02.906 (0x7fff609aa690) Debug: systemd: "CanHibernate" = "yes"
+2019-12-27 22:27:03.219 (0x7fff609aa690) Debug: systemd: "CanSuspend" = "yes"
+2019-12-27 22:27:03.454 (0x7ffda4f9aa00) Debug: systemd: "CanReboot" = "yes"
+2019-12-27 22:27:03.729 (0x7ffda4f9aa00) Debug: systemd: "CanPowerOff" = "yes"
+2019-12-27 22:27:04.884 (0x7fff609aa690) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-12-27 22:27:04.948 (0x7ffe39a6c520) Debug: ()
+2019-12-27 22:27:06.395 (0x7ffe39a6c520) Debug: WinIdChange 1400008 handle QWidgetWindow(0x5618e5266120, name="LXQtPanel panel1Window") QScreen(0x5618e4f29170, name="HDMI-1")
+2019-12-27 22:27:31.217 (0x7ffe39a6c520) Debug: Systray started
+2019-12-27 22:27:35.550 (0x7ffe7a323a70) Debug: Starting idlenesswatcher
+2019-12-27 22:27:35.938 (0x7ffe39a6c520) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-12-27 22:28:12.522 (0x7ffe39a6c520) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1271, resource id: 39845891, major code: 18 (ChangeProperty), minor code: 0
+2019-12-27 22:28:21.109 (0x7ffc9bb971d0) Warning: Empty filename passed to function
+2019-12-27 22:30:38.100 (0x7fff609aa690) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2019-12-27 22:39:37.522 (0x7ffe39a6c520) Warning: "Failed to get sink information: No such entity"
+2019-12-28 01:30:22.628 (0x7ffda4f9aa00) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-12-28 01:30:22.634 (0x7ffc9bb971d0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-12-28 01:30:22.635 (0x7ffecadd1cc0) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-12-28 01:30:22.640 (0x7fff609aa690) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-12-28 01:30:22.641 (0x7ffe39a6c520) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-12-28 01:30:22.655 (0x7ffe1d7e8c40) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-12-28 01:30:22.660 (0x7ffe7a323a70) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2019-12-28 01:30:22.677 (0x7ffe39a6c520) Critical: unable to write into socketpair: Bad file descriptor
+2019-12-28 01:30:22.689 (0x7ffe39a6c520) Critical: unable to write into socketpair: Bad file descriptor
+2020-01-05 20:09:06.834 (0x7fff43653830) Debug: New PolkitAgentListener  0x55e29ad1e680
+2020-01-05 20:09:07.016 (0x7fff43653830) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff43653840) for  0x55e29ad1e680
+2020-01-05 20:09:14.690 (0x7ffde176c190) Debug: systemd: "CanHibernate" = "yes"
+2020-01-05 20:09:15.362 (0x7ffde176c190) Debug: systemd: "CanSuspend" = "yes"
+2020-01-05 20:09:15.537 (0x7ffcdba3a8e0) Warning: "Session 'session', new input device '/dev/input/event13', keyboard setting will be (optionaly) reloaded..."
+2020-01-05 20:09:15.539 (0x7ffcdba3a8e0) Warning: "Session 'session', new input device '/dev/input/event14', keyboard setting will be (optionaly) reloaded..."
+2020-01-05 20:09:15.557 (0x7ffcdba3a8e0) Warning: "Session 'session', new input device '/dev/input/event16', keyboard setting will be (optionaly) reloaded..."
+2020-01-05 20:09:15.653 (0x7ffcdba3a8e0) Warning: "Session 'session', new input device '/dev/input/event15', keyboard setting will be (optionaly) reloaded..."
+2020-01-05 20:09:15.826 (0x7ffcdba3a8e0) Debug: systemd: "CanReboot" = "yes"
+2020-01-05 20:09:16.174 (0x7ffcdba3a8e0) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-05 20:09:17.627 (0x7ffde176c190) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-05 20:09:18.089 (0x7ffd48a76480) Debug: ()
+2020-01-05 20:09:19.648 (0x7ffd48a76480) Debug: WinIdChange 1800008 handle QWidgetWindow(0x560868486c70, name="LXQtPanel panel1Window") QScreen(0x56086812f170, name="HDMI-1")
+2020-01-05 20:09:20.021 (0x7ffd48a76480) Debug: Systray started
+2020-01-05 20:09:24.427 (0x7fff183db0d0) Debug: Starting idlenesswatcher
+2020-01-05 20:09:24.807 (0x7ffd48a76480) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-05 20:09:25.219 (0x7ffcdba3a8e0) Warning: "Session 'session', new input device '/dev/input/mouse0', keyboard setting will be (optionaly) reloaded..."
+2020-01-05 20:09:25.262 (0x7ffcdba3a8e0) Warning: "Session 'session', new input device '/dev/input/event17', keyboard setting will be (optionaly) reloaded..."
+2020-01-05 20:09:25.270 (0x7ffd48a76480) Warning: UdevQt: unhandled device action "bind"
+2020-01-05 20:09:25.278 (0x7ffd48a76480) Warning: UdevQt: unhandled device action "bind"
+2020-01-05 20:14:33.826 (0x7ffd48a76480) Warning: UdevQt: unhandled device action "unbind"
+2020-01-05 20:14:33.886 (0x7ffd48a76480) Warning: UdevQt: unhandled device action "unbind"
+2020-01-05 20:14:33.891 (0x7ffd48a76480) Warning: UdevQt: unhandled device action "unbind"
+2020-01-05 20:14:35.084 (0x7ffcdba3a8e0) Warning: "Session 'session', new input device '/dev/input/event4', keyboard setting will be (optionaly) reloaded..."
+2020-01-05 20:14:35.131 (0x7ffcdba3a8e0) Warning: "Session 'session', new input device '/dev/input/event2', keyboard setting will be (optionaly) reloaded..."
+2020-01-05 20:14:35.135 (0x7ffd48a76480) Warning: UdevQt: unhandled device action "bind"
+2020-01-05 20:14:35.166 (0x7ffd48a76480) Warning: UdevQt: unhandled device action "bind"
+2020-01-05 20:14:35.174 (0x7ffd48a76480) Warning: UdevQt: unhandled device action "bind"
+2020-01-05 20:14:35.191 (0x7ffcdba3a8e0) Warning: "Session 'session', new input device '/dev/input/event3', keyboard setting will be (optionaly) reloaded..."
+2020-01-05 20:21:40.741 (0x7ffd48a76480) Warning: "Failed to get sink information: No such entity"
+2020-01-05 20:25:10.912 (0x7ffc9c3c7200) Warning: Empty filename passed to function
+2020-01-05 20:28:23.112 (0x7ffd48a76480) Warning: "Failed to get sink information: No such entity"
+2020-01-05 20:36:53.810 (0x7ffd48a76480) Warning: "Failed to get sink information: No such entity"
+2020-01-05 21:19:29.380 (0x7ffd48a76480) Debug: Desktop count changed from 2 to 3
+2020-01-06 00:36:47.293 (0x7ffcdba3a8e0) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2020-01-06 00:36:48.598 (0x7ffcdba3a8e0) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2020-01-06 12:07:04.261 (0x7ffc764000b0) Debug: New PolkitAgentListener  0x55d83ed92680
+2020-01-06 12:07:04.403 (0x7ffc764000b0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc764000c0) for  0x55d83ed92680
+2020-01-06 12:07:10.548 (0x7fff52a08a20) Debug: systemd: "CanHibernate" = "yes"
+2020-01-06 12:07:10.815 (0x7fff52a08a20) Debug: systemd: "CanSuspend" = "yes"
+2020-01-06 12:07:11.068 (0x7ffda5700000) Debug: systemd: "CanReboot" = "yes"
+2020-01-06 12:07:11.444 (0x7ffda5700000) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-06 12:07:12.675 (0x7ffc5f107850) Debug: ()
+2020-01-06 12:07:12.849 (0x7fff52a08a20) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-06 12:07:14.222 (0x7ffc5f107850) Debug: WinIdChange 1800008 handle QWidgetWindow(0x55ad6dc1b9d0, name="LXQtPanel panel1Window") QScreen(0x55ad6d8bd170, name="HDMI-1")
+2020-01-06 12:07:14.607 (0x7ffc5f107850) Debug: Systray started
+2020-01-06 12:07:18.949 (0x7ffebb5b37d0) Debug: Starting idlenesswatcher
+2020-01-06 12:07:19.263 (0x7ffc5f107850) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-06 12:19:31.307 (0x7ffc5f107850) Warning: "Failed to get sink information: No such entity"
+2020-01-06 12:22:34.735 (0x7ffc5f107850) Warning: "Failed to get sink information: No such entity"
+2020-01-06 12:26:56.561 (0x7ffc5f107850) Warning: "Failed to get sink information: No such entity"
+2020-01-06 22:48:19.605 (0x7ffda5700000) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2020-01-06 22:48:20.849 (0x7ffda5700000) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2020-01-06 22:52:17.616 (0x7fff8a666c80) Debug: New PolkitAgentListener  0x55badff72680
+2020-01-06 22:52:17.721 (0x7fff8a666c80) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff8a666c90) for  0x55badff72680
+2020-01-06 22:52:24.333 (0x7ffe420f82d0) Debug: systemd: "CanHibernate" = "yes"
+2020-01-06 22:52:25.026 (0x7ffe420f82d0) Debug: systemd: "CanSuspend" = "yes"
+2020-01-06 22:52:25.332 (0x7fff6a72dd10) Debug: systemd: "CanReboot" = "yes"
+2020-01-06 22:52:25.579 (0x7fff6a72dd10) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-06 22:52:26.700 (0x7ffe420f82d0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-06 22:52:26.918 (0x7ffc3d1ae9f0) Debug: ()
+2020-01-06 22:52:28.146 (0x7ffc3d1ae9f0) Debug: WinIdChange 1800008 handle QWidgetWindow(0x559c615897e0, name="LXQtPanel panel1Window") QScreen(0x559c61215170, name="HDMI-1")
+2020-01-06 22:52:52.472 (0x7ffc3d1ae9f0) Debug: Systray started
+2020-01-06 22:52:56.732 (0x7ffc33bcd850) Debug: Starting idlenesswatcher
+2020-01-06 22:52:57.112 (0x7ffc3d1ae9f0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-06 23:02:31.151 (0x7fff6a72dd10) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-06 23:02:31.164 (0x7ffe29da81e0) Warning: The X11 connection broke: I/O error (code 1)
+2020-01-06 23:02:31.166 (0x7ffe29da81e0) Warning: QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+2020-01-06 23:02:31.167 (0x7fff8a666c80) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-06 23:02:31.244 (0x7ffc3d1ae9f0) Warning: The X11 connection broke: I/O error (code 1)
+2020-01-07 21:36:23.868 (0x7ffcf27afb50) Debug: New PolkitAgentListener  0x55ff7410da80
+2020-01-07 21:36:24.142 (0x7ffcf27afb50) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffcf27afb60) for  0x55ff7410da80
+2020-01-07 21:36:30.379 (0x7ffcdad08940) Debug: systemd: "CanHibernate" = "yes"
+2020-01-07 21:36:30.712 (0x7ffcdad08940) Debug: systemd: "CanSuspend" = "yes"
+2020-01-07 21:36:30.918 (0x7ffc41082240) Debug: systemd: "CanReboot" = "yes"
+2020-01-07 21:36:31.331 (0x7ffc41082240) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-07 21:36:32.094 (0x7ffcdad08940) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-07 21:36:32.511 (0x7fff4b7eec80) Debug: ()
+2020-01-07 21:36:33.816 (0x7fff4b7eec80) Debug: WinIdChange 1600008 handle QWidgetWindow(0x5582c6fbd460, name="LXQtPanel panel1Window") QScreen(0x5582c6c3f170, name="HDMI-1")
+2020-01-07 21:36:34.121 (0x7fff4b7eec80) Debug: Systray started
+2020-01-07 21:36:38.450 (0x7ffc90eeffe0) Debug: Starting idlenesswatcher
+2020-01-07 21:36:38.814 (0x7fff4b7eec80) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-07 21:41:43.964 (0x7ffc4748d640) Warning: Empty filename passed to function
+2020-01-07 23:36:58.829 (0x7ffc41082240) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2020-01-07 23:37:00.534 (0x7ffc41082240) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2020-01-07 23:44:16.218 (0x7ffd24b9f350) Debug: New PolkitAgentListener  0x55f312c2f480
+2020-01-07 23:44:16.277 (0x7ffd24b9f350) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd24b9f360) for  0x55f312c2f480
+2020-01-07 23:44:22.642 (0x7ffe86a3cd60) Debug: systemd: "CanHibernate" = "yes"
+2020-01-07 23:44:22.898 (0x7ffe86a3cd60) Debug: systemd: "CanSuspend" = "yes"
+2020-01-07 23:44:23.076 (0x7ffebfce2760) Debug: systemd: "CanReboot" = "yes"
+2020-01-07 23:44:23.242 (0x7ffebfce2760) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-07 23:44:24.199 (0x7ffe86a3cd60) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-07 23:44:24.761 (0x7ffe012a7290) Debug: ()
+2020-01-07 23:44:26.281 (0x7ffe012a7290) Debug: WinIdChange 1000008 handle QWidgetWindow(0x5588ec0bf720, name="LXQtPanel panel1Window") QScreen(0x5588ebddb170, name="HDMI-1")
+2020-01-07 23:44:51.306 (0x7ffe012a7290) Debug: Systray started
+2020-01-07 23:44:55.648 (0x7fff22ee1750) Debug: Starting idlenesswatcher
+2020-01-07 23:44:56.012 (0x7ffe012a7290) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-07 23:52:56.034 (0x7ffebfce2760) Warning: Module lxqt-desktop.desktop won't terminate ... killing.
+2020-01-07 23:52:58.035 (0x7ffebfce2760) Warning: Module lxqt-globalkeyshortcuts.desktop won't terminate ... killing.
+2020-01-07 23:52:59.046 (0x7ffe012a7290) Warning: The X11 connection broke: I/O error (code 1)
+2020-01-07 23:53:00.037 (0x7ffebfce2760) Warning: Module lxqt-notifications.desktop won't terminate ... killing.
+2020-01-07 23:53:11.250 (0x7ffebfce2760) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2020-01-07 23:53:13.250 (0x7ffebfce2760) Warning: Window Manager won't terminate ... killing.
+2020-01-07 23:53:13.250 (0x7ffebfce2760) Warning: QProcess: Destroyed while process ("pcmanfm-qt") is still running.
+2020-01-07 23:53:24.127 (0x7ffebfce2760) Warning: QProcess: Destroyed while process ("lxqt-globalkeysd") is still running.
+2020-01-07 23:53:24.136 (0x7ffebfce2760) Warning: QProcess: Destroyed while process ("lxqt-notificationd") is still running.
+2020-01-07 23:53:24.166 (0x7ffebfce2760) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2020-01-07 23:53:24.198 (0x7ffebfce2760) Warning: QProcess: Destroyed while process ("xfwm4") is still running.
+2020-01-07 23:57:12.705 (0x7fff6921c310) Debug: New PolkitAgentListener  0x5596b4c16480
+2020-01-07 23:57:12.881 (0x7fff6921c310) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff6921c320) for  0x5596b4c16480
+2020-01-07 23:57:19.883 (0x7fff603b57c0) Debug: systemd: "CanHibernate" = "yes"
+2020-01-07 23:57:20.207 (0x7fff603b57c0) Debug: systemd: "CanSuspend" = "yes"
+2020-01-07 23:57:20.444 (0x7ffd7d36ddf0) Debug: systemd: "CanReboot" = "yes"
+2020-01-07 23:57:20.524 (0x7ffd7d36ddf0) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-07 23:57:21.634 (0x7fff603b57c0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-07 23:57:22.106 (0x7fff602c4a40) Debug: ()
+2020-01-07 23:57:23.527 (0x7fff602c4a40) Debug: WinIdChange 1800008 handle QWidgetWindow(0x55904ce47da0, name="LXQtPanel panel1Window") QScreen(0x55904cad7170, name="HDMI-1")
+2020-01-07 23:57:48.293 (0x7fff602c4a40) Debug: Systray started
+2020-01-07 23:57:52.575 (0x7ffd0cfc3e70) Debug: Starting idlenesswatcher
+2020-01-07 23:57:53.217 (0x7fff602c4a40) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-07 23:59:40.051 (0x7fff602c4a40) Warning: LXQt-Volume: Context connection failed or terminated lets try to reconnect
+2020-01-08 00:19:56.527 (0x7fff602c4a40) Warning: LXQt-Volume: Context connection failed or terminated lets try to reconnect
+2020-01-08 00:33:51.729 (0x7ffd7d36ddf0) Warning: Module lxqt-desktop.desktop won't terminate ... killing.
+2020-01-08 00:33:53.731 (0x7ffd7d36ddf0) Warning: Module lxqt-notifications.desktop won't terminate ... killing.
+2020-01-08 00:33:54.733 (0x7fff602c4a40) Debug: Service "org.freedesktop.StatusNotifierItem-1165-1" unregistered
+2020-01-08 00:33:54.734 (0x7fff602c4a40) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-08 00:33:55.733 (0x7ffd7d36ddf0) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2020-01-08 00:33:57.736 (0x7ffd7d36ddf0) Warning: Window Manager won't terminate ... killing.
+2020-01-08 00:33:57.736 (0x7ffd7d36ddf0) Warning: QProcess: Destroyed while process ("pcmanfm-qt") is still running.
+2020-01-08 00:34:27.766 (0x7ffd7d36ddf0) Warning: QProcess: Destroyed while process ("lxqt-notificationd") is still running.
+2020-01-08 00:34:49.948 (0x7ffd7d36ddf0) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2020-01-08 00:34:49.978 (0x7ffd7d36ddf0) Warning: QProcess: Destroyed while process ("xfwm4") is still running.
+2020-01-08 00:51:37.459 (0x7fffcf3c1450) Debug: New PolkitAgentListener  0x55b14bef2280
+2020-01-08 00:51:37.572 (0x7fffcf3c1450) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fffcf3c1460) for  0x55b14bef2280
+2020-01-08 00:51:44.077 (0x7ffeb45f4db0) Debug: systemd: "CanHibernate" = "yes"
+2020-01-08 00:51:44.615 (0x7ffeb45f4db0) Debug: systemd: "CanSuspend" = "yes"
+2020-01-08 00:51:44.813 (0x7ffe0da17e40) Debug: systemd: "CanReboot" = "yes"
+2020-01-08 00:51:44.998 (0x7ffe0da17e40) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-08 00:51:46.032 (0x7ffdb4c19f80) Debug: ()
+2020-01-08 00:51:46.298 (0x7ffeb45f4db0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-08 00:51:47.738 (0x7ffdb4c19f80) Debug: WinIdChange 1000008 handle QWidgetWindow(0x561d48b39e80, name="LXQtPanel panel1Window") QScreen(0x561d487c5170, name="HDMI-1")
+2020-01-08 00:52:12.486 (0x7ffdb4c19f80) Debug: Systray started
+2020-01-08 00:52:16.745 (0x7ffdac2ae0e0) Debug: Starting idlenesswatcher
+2020-01-08 00:52:17.151 (0x7ffdb4c19f80) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-08 01:16:30.969 (0x7ffe0da17e40) Warning: Module lxqt-notifications.desktop won't terminate ... killing.
+2020-01-08 01:16:32.970 (0x7ffe0da17e40) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2020-01-08 01:16:34.972 (0x7ffe0da17e40) Warning: Window Manager won't terminate ... killing.
+2020-01-08 01:16:34.972 (0x7ffe0da17e40) Warning: QProcess: Destroyed while process ("lxqt-notificationd") is still running.
+2020-01-08 01:16:59.074 (0x7ffe0da17e40) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2020-01-08 01:16:59.154 (0x7ffe0da17e40) Warning: QProcess: Destroyed while process ("xfwm4") is still running.
+2020-01-15 21:21:20.924 (0x7ffd6b0eaf60) Debug: New PolkitAgentListener  0x5620763a6880
+2020-01-15 21:21:21.103 (0x7ffd6b0eaf60) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd6b0eaf70) for  0x5620763a6880
+2020-01-15 21:21:28.000 (0x7ffefd0128f0) Debug: systemd: "CanHibernate" = "yes"
+2020-01-15 21:21:28.550 (0x7ffefd0128f0) Debug: systemd: "CanSuspend" = "yes"
+2020-01-15 21:21:29.090 (0x7fff412b0a90) Debug: systemd: "CanReboot" = "yes"
+2020-01-15 21:21:29.530 (0x7fff412b0a90) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-15 21:21:31.039 (0x7ffe5fc8d4d0) Debug: ()
+2020-01-15 21:21:31.218 (0x7ffefd0128f0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-15 21:21:32.776 (0x7ffe5fc8d4d0) Debug: WinIdChange 1800008 handle QWidgetWindow(0x55562b820670, name="LXQtPanel panel1Window") QScreen(0x55562b4c3170, name="HDMI-1")
+2020-01-15 21:21:33.146 (0x7ffe5fc8d4d0) Debug: Systray started
+2020-01-15 21:21:37.485 (0x7fff200b3ce0) Debug: Starting idlenesswatcher
+2020-01-15 21:21:37.923 (0x7ffe5fc8d4d0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-15 21:41:58.269 (0x7ffd90537ff0) Warning: Empty filename passed to function
+2020-01-15 22:06:07.461 (0x7ffe5fc8d4d0) Warning: UdevQt: unhandled device action "unbind"
+2020-01-15 22:06:07.518 (0x7ffe5fc8d4d0) Warning: UdevQt: unhandled device action "unbind"
+2020-01-15 22:06:07.522 (0x7ffe5fc8d4d0) Warning: UdevQt: unhandled device action "unbind"
+2020-01-15 22:06:08.134 (0x7fff412b0a90) Warning: "Session 'session', new input device '/dev/input/event9', keyboard setting will be (optionaly) reloaded..."
+2020-01-15 22:06:08.148 (0x7fff412b0a90) Warning: "Session 'session', new input device '/dev/input/event6', keyboard setting will be (optionaly) reloaded..."
+2020-01-15 22:06:08.150 (0x7ffe5fc8d4d0) Warning: UdevQt: unhandled device action "bind"
+2020-01-15 22:06:08.212 (0x7fff412b0a90) Warning: "Session 'session', new input device '/dev/input/event7', keyboard setting will be (optionaly) reloaded..."
+2020-01-15 22:06:08.214 (0x7ffe5fc8d4d0) Warning: UdevQt: unhandled device action "bind"
+2020-01-15 22:06:08.214 (0x7ffe5fc8d4d0) Warning: UdevQt: unhandled device action "bind"
+2020-01-15 22:33:57.909 (0x7ffe5fc8d4d0) Warning: "Failed to get sink information: No such entity"
+2020-01-15 22:55:11.317 (0x7ffe5fc8d4d0) Warning: "Failed to get sink information: No such entity"
+2020-01-15 22:59:53.340 (0x7fffb848af20) Debug: Connecting to KScreen...
+2020-01-15 23:04:18.189 (0x7ffe5fc8d4d0) Warning: UdevQt: unhandled device action "bind"
+2020-01-15 23:04:18.194 (0x7ffe5fc8d4d0) Warning: UdevQt: unhandled device action "bind"
+2020-01-15 23:31:33.804 (0x7ffc343b8e30) Warning: The X11 connection broke: I/O error (code 1)
+2020-01-15 23:31:33.805 (0x7ffc343b8e30) Warning: QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+2020-01-15 23:31:33.906 (0x7ffe5fc8d4d0) Warning: The X11 connection broke: I/O error (code 1)
+2020-01-15 23:31:35.975 (0x7fff412b0a90) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2020-01-15 23:31:35.975 (0x7fff412b0a90) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2020-01-15 23:36:57.450 (0x7ffc9a997a60) Debug: New PolkitAgentListener  0x55aeb0503280
+2020-01-15 23:36:57.791 (0x7ffc9a997a60) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc9a997a70) for  0x55aeb0503280
+2020-01-15 23:37:04.466 (0x7ffc0f689c60) Debug: systemd: "CanHibernate" = "yes"
+2020-01-15 23:37:04.825 (0x7ffc0f689c60) Debug: systemd: "CanSuspend" = "yes"
+2020-01-15 23:37:05.011 (0x7ffe52a7ee10) Debug: systemd: "CanReboot" = "yes"
+2020-01-15 23:37:05.229 (0x7ffe52a7ee10) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-15 23:37:06.224 (0x7ffe170e4c60) Debug: ()
+2020-01-15 23:37:06.406 (0x7ffc0f689c60) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-15 23:37:07.973 (0x7ffe170e4c60) Debug: WinIdChange 1800008 handle QWidgetWindow(0x55ba4ed6d990, name="LXQtPanel panel1Window") QScreen(0x55ba4e9fc170, name="HDMI-1")
+2020-01-15 23:37:32.462 (0x7ffe170e4c60) Debug: Systray started
+2020-01-15 23:37:36.806 (0x7ffd65f1be10) Debug: Starting idlenesswatcher
+2020-01-15 23:37:37.224 (0x7ffe170e4c60) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-15 23:41:02.160 (0x7ffe170e4c60) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2591, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+2020-01-15 23:41:18.458 (0x7ffe170e4c60) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3979, resource id: 39845891, major code: 18 (ChangeProperty), minor code: 0
+2020-01-15 23:47:23.533 (0x7ffe52a7ee10) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-15 23:47:23.544 (0x7ffe66ae5770) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-15 23:47:23.544 (0x7ffe66ae5770) Warning: The X11 connection broke: I/O error (code 1)
+2020-01-15 23:47:23.544 (0x7ffe66ae5770) Warning: QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+2020-01-15 23:47:23.545 (0x7ffe170e4c60) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-15 23:47:23.546 (0x7ffe1e8a6240) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-15 23:47:23.546 (0x7ffc9a997a60) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-15 23:47:23.546 (0x7ffc0f689c60) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-15 23:47:23.550 (0x7ffd65f1be10) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-15 23:47:23.599 (0x7ffe170e4c60) Critical: unable to write into socketpair: Bad file descriptor
+2020-01-15 23:47:23.612 (0x7ffe170e4c60) Critical: unable to write into socketpair: Bad file descriptor
+2020-01-16 00:39:37.084 (0x7ffc3e480c30) Debug: New PolkitAgentListener  0x55f145027880
+2020-01-16 00:39:37.162 (0x7ffc3e480c30) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc3e480c40) for  0x55f145027880
+2020-01-16 00:39:43.288 (0x7ffd6d8faa00) Debug: systemd: "CanHibernate" = "yes"
+2020-01-16 00:39:43.660 (0x7ffd6d8faa00) Debug: systemd: "CanSuspend" = "yes"
+2020-01-16 00:39:43.831 (0x7fff0a7ad330) Debug: systemd: "CanReboot" = "yes"
+2020-01-16 00:39:43.897 (0x7fff0a7ad330) Debug: systemd: "CanPowerOff" = "yes"
+2020-01-16 00:39:44.901 (0x7ffd6d8faa00) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-16 00:39:45.379 (0x7ffe29ed0200) Debug: ()
+2020-01-16 00:39:46.624 (0x7ffe29ed0200) Debug: WinIdChange 1600008 handle QWidgetWindow(0x5593765bd9a0, name="LXQtPanel panel1Window") QScreen(0x559376246170, name="HDMI-1")
+2020-01-16 00:40:11.780 (0x7ffe29ed0200) Debug: Systray started
+2020-01-16 00:40:16.035 (0x7fff66291af0) Debug: Starting idlenesswatcher
+2020-01-16 00:40:16.460 (0x7ffe29ed0200) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-16 00:40:31.443 (0x7fff0a7ad330) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-16 00:40:31.527 (0x7ffe29ed0200) Warning: The X11 connection broke: I/O error (code 1)

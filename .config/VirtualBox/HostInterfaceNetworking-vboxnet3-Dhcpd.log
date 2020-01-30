@@ -1,0 +1,34 @@
+00:00:00.020351 VirtualBox DHCP Server 6.0.16 r135674 linux.amd64 (Jan 14 2020 10:16:36) release log
+00:00:00.020354 Log opened 2020-01-19T23:04:11.821591000Z
+00:00:00.020354 Build Type: release
+00:00:00.020357 OS Product: Linux
+00:00:00.020358 OS Release: 4.19.0-6-amd64
+00:00:00.020359 OS Version: #1 SMP Debian 4.19.67-2+deb10u2 (2019-11-11)
+00:00:00.020383 DMI Product Name: MS-7680
+00:00:00.020391 DMI Product Version: 3.0
+00:00:00.020435 Host RAM: 7961MB (7.7GB) total, 5208MB (5.0GB) available
+00:00:00.020438 Executable: /usr/lib/virtualbox/VBoxNetDHCP
+00:00:00.020439 Process ID: 8376
+00:00:00.020439 Package type: LINUX_64BITS_DEBIAN_10_0
+00:00:00.020468 MAC address is not specified: will use generated MAC 08:00:27:0a:5b:e4
+00:00:00.020474 IP address 192.168.59.100/24
+00:00:00.020478 address pool 192.168.59.101 - 192.168.59.254
+00:00:00.020486 loading leases from /home/koja/.config/VirtualBox/HostInterfaceNetworking-vboxnet3-Dhcpd.leases
+00:00:00.043093 > LOAD: EXPIRED lease 192.168.59.103 to 08:00:27:b7:a9:93, expired, valid from 2020-01-08T00:09:33Z for 1200s until 2020-01-08T00:29:33Z
+00:00:00.043120 > LOAD: EXPIRED lease 192.168.59.102 to 08:00:27:a0:d3:42, expired, valid from 2020-01-08T00:12:35Z for 1200s until 2020-01-08T00:32:35Z
+00:00:00.043131 > LOAD: EXPIRED lease 192.168.59.101 to 08:00:27:74:0f:af, expired, valid from 2020-01-08T00:08:19Z for 1200s until 2020-01-08T00:28:18Z
+00:00:11.686883 DISCOVER xid 0x000019a7 chaddr 08:00:27:74:0f:af
+00:00:11.686931  ciaddr 0.0.0.0
+00:00:11.686942  params { 1 3 6 28 }
+00:00:11.686960 > allocateAddress to client 08:00:27:74:0f:af
+00:00:11.686968 > .... noted expired binding 192.168.59.103 to 08:00:27:b7:a9:93, expired, valid from 2020-01-08T00:09:32Z for 1200s until 2020-01-08T00:29:33Z
+00:00:11.686995 > ... found existing binding 192.168.59.101 to 08:00:27:74:0f:af, expired, valid from 2020-01-08T00:08:18Z for 1200s until 2020-01-08T00:28:18Z
+00:00:11.689037 REQUEST for server 192.168.59.100 xid 0x000019a8 chaddr 08:00:27:74:0f:af
+00:00:11.689082  ciaddr 0.0.0.0
+00:00:11.689089  requested address 192.168.59.101
+00:00:11.689098  params { 1 3 6 28 }
+00:00:11.689115  other options: 54
+00:00:11.689125 > allocateAddress 192.168.59.101 to client 08:00:27:74:0f:af
+00:00:11.689132 > .... noted expired binding 192.168.59.103 to 08:00:27:b7:a9:93, expired, valid from 2020-01-08T00:09:32Z for 1200s until 2020-01-08T00:29:32Z
+00:00:11.689143 > ... found existing binding 192.168.59.101 to 08:00:27:74:0f:af, offered, valid from 2020-01-19T23:04:23Z for 1200s until 2020-01-19T23:24:23Z
+00:00:11.689152 writing leases to /home/koja/.config/VirtualBox/HostInterfaceNetworking-vboxnet3-Dhcpd.leases

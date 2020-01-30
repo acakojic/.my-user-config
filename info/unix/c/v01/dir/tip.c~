@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+void word_find(char *path, char character);
+
+void tip();
+
+int main ()
+{
+	
+	
+	return 0;
+}
+
+
+
+void tip()
+{
+	int i = sizeof(int);
+
+	printf("Tip int: %d\n");
+}
