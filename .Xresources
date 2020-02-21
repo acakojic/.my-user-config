@@ -20,6 +20,6 @@ XTerm*internalBorder: 3
 XTerm*loginShell: true
 XTerm*scrollBar: false
 XTerm*scrollKey: true
-XTerm*saveLines: 1000
+XTerm*saveLines: 10000
 XTerm*multiClickTime: 250
 XTerm*selectToClipboard: true

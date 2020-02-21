@@ -25,8 +25,3 @@ fi
 if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
-
-if [ -d "$HOME/Pictures/wallpaper/zerg_wallpaper.png" ] ; then
-	feh –bg-fill ~/Pictures/wallpaper/zerg_wallpaper.png
-fi
-

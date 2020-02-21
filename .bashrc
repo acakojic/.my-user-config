@@ -113,7 +113,11 @@ if ! shopt -oq posix; then
 fi
 
 #aca dodao x-D
-alias xterm='xterm tmux'
+#alias xterm='xterm screen'
 
 #aca menjanje podrazumevanog emacs da otvara emacs -nw
 alias emacs='emacs -nw'
+
+#rerun: source ~/.bashrc
+
+echo ".bashrc" >> startup.txt

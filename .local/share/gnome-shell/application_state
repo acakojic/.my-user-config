@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1581175077"/>
+    <application id="purebrowser.desktop" open-window-count="1" score="53" last-seen="1581175710"/>
+    <application id="com.gexperts.Tilix.desktop" open-window-count="1" score="32" last-seen="1581175448"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="5" last-seen="1581175072"/>
+  </context>
+</application-state>

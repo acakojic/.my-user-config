@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo ".xprofile" >> startup.txt
+
+xrandr --auto --output HDMI-1 --mode 1920x1080 --right-of DVI-D-1

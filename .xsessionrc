@@ -1,5 +1,11 @@
 #!/bin/sh
 
-xmodmap ~/.xmodmap-swap &
-setxkbmap us -variant colemak -option ctrl:nocaps -option shift:both_capslock
+echo ".xessionrc" >> startup.txt
 
+sh ~/.profile
+
+sh bin/set-dual-monitor.sh
+
+xrdb -merge .Xresources
+
+xmodmap .xmodmap

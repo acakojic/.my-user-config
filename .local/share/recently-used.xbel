@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/acakojic/Downloads/arch%20linux%20-%20bash%20commands%20don&apos;t%20seem%20to%20run%20in%20.xinitrc%20-%20Unix%20&amp;%20Linux%20Stack%20Exchange.html" added="2020-02-14T20:46:29Z" modified="2020-02-14T20:46:30Z" visited="2020-02-14T20:46:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="PureBrowser" exec="&apos;purebrowser %u&apos;" modified="2020-02-14T20:46:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_acakojic0/archlinux-2020.02.01-x86_64.iso" added="2020-02-16T11:32:34Z" modified="2020-02-16T11:32:34Z" visited="2020-02-16T11:32:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="PureBrowser" exec="&apos;purebrowser %u&apos;" modified="2020-02-16T11:32:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/acakojic/Downloads/Server%20Not%20Found.xhtml" added="2020-02-17T18:56:41Z" modified="2020-02-17T18:56:42Z" visited="2020-02-17T18:56:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xhtml+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="PureBrowser" exec="&apos;purebrowser %u&apos;" modified="2020-02-17T18:56:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/acakojic/Downloads/linuxx64_12201_database.zip" added="2020-02-17T21:25:52Z" modified="2020-02-17T21:25:52Z" visited="2020-02-17T21:25:52.792523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="PureBrowser" exec="&apos;purebrowser %u&apos;" modified="2020-02-17T21:25:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
